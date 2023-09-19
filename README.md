@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [my-portfolio-josueisoffline.vercel.app](my-portfolio-josueisoffline.vercel.app)
+- 👨‍💻 All of my projects are available at [my-portfolio-josueisoffline.vercel.app](https://my-portfolio-josueisoffline.vercel.app)
 
 - 📝 I regularly write articles on [Coming Soon...](Coming Soon...)
 
