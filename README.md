@@ -1,27 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif)
-<h1 align="center">Hi 👋, I'm Josué Hernández</h1>
-<h3 align="center">A passionate software developer from Dominican Republic</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josueisoffline" alt="josueisoffline" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [my-portfolio-josueisoffline.vercel.app](my-portfolio-josueisoffline.vercel.app)
-
-- 📝 I regularly write articles on [Coming Soon...](Coming Soon...)
-
-- 💬 Ask me about **React, NextJS, NodeJS, MySQL**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/josueisoffline" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josueisoffline" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+[![MasterHead](https://i.pinimg.com/originals/af/07/83/af078313d59ae6b98d663e219256a16a.gif)
 <h1 align="center">Hi 👋, I'm Josué Hernández</h1>
 <h3 align="center">A passionate software developer from Dominican Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josueisoffline&label=Profile%20views&color=0e75b6&style=flat" alt="josueisoffline" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josueisoffline" alt="josueisoffline" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS**
 
@@ -47,4 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josueisoffline&" alt="josueisoffline" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josueisoffline&show_icons=true&locale=en" alt="josueisoffline" /></p>
