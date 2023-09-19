@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/af/07/83/af078313d59ae6b98d663e219256a16a.gif)
+![MasterHead](https://i.pinimg.com/originals/af/07/83/af078313d59ae6b98d663e219256a16a.gif)
 <h1 align="center">Hi 👋, I'm Josué Hernández</h1>
 <h3 align="center">A passionate software developer from Dominican Republic</h3>
 
