@@ -1,6 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/af/07/83/af078313d59ae6b98d663e219256a16a.gif)
 <h1 align="center">Hi 👋, I'm Josué Hernández</h1>
 <h3 align="center">A passionate software developer from Dominican Republic</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josueisoffline&label=Profile%20views&color=0e75b6&style=flat" alt="josueisoffline" /> </p>
 
