@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josueisoffline&" alt="josueisoffline" /></p>
 
-![Snake animation](https://github.com/JosuIsOffline/JosuIsOffline/blob/output/github-contribution-grid-snake.svg)
+
 
