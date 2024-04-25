@@ -1,20 +1,32 @@
 ![MasterHead](https://i.pinimg.com/originals/af/07/83/af078313d59ae6b98d663e219256a16a.gif)
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+from+Dominican+Republic;I'm+19+years+old;Welcome!)
+<!-- -->A
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋++;Self-taught+Back-End+Developer,;Computer+Science+Student,;Dominican+Republic,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3)
 
-### Hello! 👋
-
-Welcome to my profile! I'm [your name], a passionate 19-year-old software developer from the Dominican Republic.
-
-Ever since I discovered my interest in technology, I've dedicated myself to learning and exploring different areas of software development. I love working with technologies like React.js, Next.js, Redux, and many others. Additionally, I have experience in developing web and mobile applications, as well as designing and implementing backend solutions using Node.js, Express, Nest.js, Django, Flask, and FastAPI, among others.
-
-When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and learning about computer-related topics. I also enjoy spending time outdoors, reading, and learning about different cultures and traditions.
-
-Feel free to reach out if you want to collaborate on a project or just chat about technology! I'm always open to new opportunities and experiences.
-
-Thanks for visiting my profile!
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+```javascript
+   const josue = {
+    pronouns: "He" | "Him",
+    bio: "¡Hola! Soy Josué Hernández, un apasionado del desarrollo de aplicaciones y tecnología en general.
+           Me gusta explorar nuevas tecnologías y trabajar en proyectos desafiantes.",
+    current_university: "Instituto Tecnologico de las Americas (ITLA)",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express", "python", /* Aquí puedes agregar tus tecnologías backend */],
+        fronEnd: ["angular"],
+        mobileApp: ["ionic","angular"],
+        database: ["mongo","mySql"],
+        serverless: ["mongo-realm","aws-lambda"],
+        devOps: ["AWS", "Nginx", "Jenkins"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <h1 align="center">Github Metrics </h1><p align="center">
 <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueIsOffline&theme=github_dark" />
 </p>
