@@ -9,20 +9,25 @@
 ```javascript
    const josue = {
     pronouns: "He" | "Him",
-    bio: "¡Hola! Soy Josué Hernández, un apasionado del desarrollo de aplicaciones y tecnología en general.
-           Me gusta explorar nuevas tecnologías y trabajar en proyectos desafiantes.",
-    current_university: "Instituto Tecnologico de las Americas (ITLA)",
-    askMeAbout: ["app dev", "web dev", "tech"],
-    technologies:{
-        backEnd: ["nodejs", "express", "python", /* Aquí puedes agregar tus tecnologías backend */],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
+    bio: "Hello! I'm Josue Hernandez, passionate about software development and technology in general.
+          I enjoy exploring  new technologies and working on challenging projects.",
+    current_university: "Instituto Tecnológico de Las Américas (ITLA)",
+    askMeAbout: ["App dev", "Web dev", "tech"],
+    technologies: {
+        backEnd: {
+           javaScript: ["Nodejs", "Express", "Nest.js"],
+           python: ["Flask", "Fastapi", "Django"],
+           c#: ["ASP.NET Core", "ASP.NET MVC", "Blazor"]
+        },
+        fronEnd: ["React", "Next.js"],
+        mobileApp: ["React-native"],
+        database: ["Mongo","MySql", "SQL Server", "Sequelize", "TypeORM", "SQLAlchemy"],
+        serverless: ["aws-lambda"],
+        devOps: ["AWS", "Nginx", "Jenkins", "Docker"],
+        testing: ["Mocha", "SuperTest", "Jest"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: ["Serverless Architecture", "Microservices", "Event-driven", "Single page applications"],
 }
 ```
 
