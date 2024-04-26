@@ -25,7 +25,7 @@
            python: ["Flask", "Fastapi", "Django"],
            c#: ["ASP.NET Core", "ASP.NET MVC", "Blazor"]
         },
-        fronEnd: ["React", "Next.js", "Vite", "Vue", "Astro"],
+        frontEnd: ["React", "Next.js", "Vite", "Vue", "Astro"],
         mobileApp: ["React-native"],
         database: ["Mongo","MySql", "SQL Server", "Sequelize", "TypeORM", "SQLAlchemy"],
         serverless: ["aws-lambda"],
