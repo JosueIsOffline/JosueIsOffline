@@ -73,7 +73,7 @@
 <div align="center">
  
 
-<a href="https://www.instagram.com/josueisoffline/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white</a> 
+<a href="https://www.instagram.com/josueisoffline/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josueisoffline/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hernandezmjosue23@gmail.com@gmail.com)](mailto:hernandezmjosue23@gmail.com@gmail.com)
