@@ -23,12 +23,11 @@
         backEnd: {
            javaScript: ["Nodejs", "Express", "Nest.js"],
            python: ["Flask", "Fastapi"],
-           c#: ["ASP.NET Core", "ASP.NET MVC", "Blazor"]
+           c-sharp: ["ASP.NET Core", "ASP.NET MVC", "Blazor"]
         },
         frontEnd: ["React", "Next.js", "Vite", "Vue", "Astro"],
         mobileApp: ["React-native"],
         database: ["Mongo","MySql", "PostgreeSQL", "SQL Server", "Sequelize", "TypeORM", "SQLAlchemy"],
-        serverless: ["aws-lambda"],
         devOps: ["Docker"],
         testing: ["Mocha", "SuperTest", "Jest"],
         misc: ["Firebase", "Socket.IO"]
