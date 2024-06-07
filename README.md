@@ -21,13 +21,13 @@
     askMeAbout: ["App dev", "Web dev", "tech"],
     technologies: {
         backEnd: {
-           javaScript: ["Nodejs", "Express", "Nest.js"],
+           javaScript: ["Nodejs", "Express", "Nest.js", "Hono"],
            python: ["Flask", "Fastapi"],
            c-sharp: ["ASP.NET Core", "ASP.NET MVC", "Blazor"]
         },
         frontEnd: ["React", "Next.js", "Vite", "Vue", "Astro"],
         mobileApp: ["React-native"],
-        database: ["Mongo","MySql", "PostgreeSQL", "SQL Server", "Sequelize", "TypeORM", "SQLAlchemy"],
+        database: ["Mongo","MySql", "PostgreeSQL", "SQL Server", "Sequelize", "TypeORM", "SQLAlchemy", "Neon", "Drizzle ORM"],
         devOps: ["Docker"],
         testing: ["Mocha", "SuperTest", "Jest"],
         misc: ["Firebase", "Socket.IO"]
