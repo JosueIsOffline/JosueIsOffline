@@ -10,7 +10,7 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://drive.google.com/file/d/1qDxKkxPUL72tO_IxTxubKQBPdLoH9XE1/view?usp=drive_link" width = 50px></picture> **About me**
 
 ```javascript
    const josue = {
