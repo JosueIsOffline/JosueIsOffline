@@ -10,7 +10,7 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## <picture><img src = "https://drive.google.com/file/d/1qDxKkxPUL72tO_IxTxubKQBPdLoH9XE1/view?usp=drive_link" width = 50px></picture> **About me**
+## <picture><img src = "https://cdn.discordapp.com/attachments/1171524783574356009/1274818094161723504/about_me.gif?ex=66c3a25e&is=66c250de&hm=b3a10fec197509fd420fab4e53e380598a854a1e9f8acb877020ba63fade7041&" width = 50px></picture> **About me**
 
 ```javascript
    const josue = {
