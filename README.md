@@ -1,4 +1,7 @@
 <div align="center">
+ 
+<img width="150" align="center" src="https://cdn.discordapp.com/attachments/1278811204625629314/1278811621460021258/Josue_Ricardo_Hernandez_Montero.jpeg?ex=66d229a1&is=66d0d821&hm=606464f7ab77b02304fdff988559c7c536f3009fe6481953eda57adaea1576e1&" />
+ 
 <br><p align="centre"><b>Visitors Count 🌕 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{🌕}/count.svg" /></p> 
 <br>
@@ -10,7 +13,7 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## <picture><img src = "https://cdn.discordapp.com/attachments/1171524783574356009/1274818094161723504/about_me.gif?ex=66c3a25e&is=66c250de&hm=b3a10fec197509fd420fab4e53e380598a854a1e9f8acb877020ba63fade7041&" width = 50px></picture> **About me**
+## <picture><img src = "https://cdn.discordapp.com/attachments/1278811204625629314/1278812523436707850/about_me.gif?ex=66d22a78&is=66d0d8f8&hm=a797d8b32856554bc92483b798b7ccfd668e1c1fd7703384cc8838c7c6cb7477&" width = 50px></picture> **About me**
 
 ```javascript
    const josue = {
