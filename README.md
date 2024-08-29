@@ -1,7 +1,5 @@
 <div align="center">
  
-<img width="150" align="center" src="https://cdn.discordapp.com/attachments/1278811204625629314/1278811621460021258/Josue_Ricardo_Hernandez_Montero.jpeg?ex=66d229a1&is=66d0d821&hm=606464f7ab77b02304fdff988559c7c536f3009fe6481953eda57adaea1576e1&" />
- 
 <br><p align="centre"><b>Visitors Count 🌕 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{🌕}/count.svg" /></p> 
 <br>
