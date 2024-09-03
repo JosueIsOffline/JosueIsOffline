@@ -11,7 +11,7 @@
 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## <picture><img src = "https://cdn.discordapp.com/attachments/1278811204625629314/1278812523436707850/about_me.gif?ex=66d22a78&is=66d0d8f8&hm=a797d8b32856554bc92483b798b7ccfd668e1c1fd7703384cc8838c7c6cb7477&" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/JosueIsOffline/JosueIsOffline/blob/main/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 ```javascript
    const josue = {
