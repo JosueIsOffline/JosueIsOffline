@@ -6,7 +6,7 @@
 </div>
 
 ![MasterHead](https://i.pinimg.com/originals/af/07/83/af078313d59ae6b98d663e219256a16a.gif)
-<!-- -->A
+<!-- -->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=149414&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋++;Self-taught+Back-End+Developer,;Computer+Science+Student,;Dominican+Republic,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3)
 
 
