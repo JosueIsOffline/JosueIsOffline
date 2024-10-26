@@ -17,7 +17,7 @@
    const josue = {
     pronouns: "He" | "Him",
     bio: "Hello! I'm Josue Hernandez, passionate about software development and technology in general.
-          I enjoy exploring  new technologies and working on challenging projects.",
+          I enjoy exploring new technologies and working on challenging projects.",
     current_university: "Instituto Tecnológico de Las Américas (ITLA)",
     askMeAbout: ["App dev", "Web dev", "tech"],
     technologies: {
