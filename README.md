@@ -169,7 +169,7 @@
  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
   </a> 
   
- <!-- [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueIsOffline&theme=algolia&card_width=1000)](https://github.com/JosueIsOffline) -->
+ [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JosueIsOffline&theme=algolia&card_width=1000)](https://github.com/JosueIsOffline)
 
  
  </br></br>
