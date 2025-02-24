@@ -13,7 +13,7 @@
  
 
 <!-- -->
-<a href="https://github.com/JosueIsOffline"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+&duration=4000&pause=100&color=25BE42&multiline=true&width=675&height=105&lines=Josu%C3%A9+Hern%C3%A1ndez+;Software+Development+Student+;Full+Stack+Developer+%7C+Next.js++%7C+SQL+Server+%7C+C%23+%7C+TypeScript" alt="Typing SVG" /></a>
+<a href="https://github.com/JosueIsOffline"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+&duration=4000&pause=500&color=25BE42&multiline=true&width=675&height=105&lines=Josu%C3%A9+Hern%C3%A1ndez+;Software+Development+Student+;Full+Stack+Developer+%7C+Next.js++%7C+SQL+Server+%7C+C%23+%7C+TypeScript" alt="Typing SVG" /></a>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
