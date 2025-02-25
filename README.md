@@ -1,3 +1,6 @@
+<h2> Hello there, I'm Josué Hernández <img src="./assets/hi.gif" height="25px"></h2>
+
+
 <a href="https://github.com/JosueIsOffline">   
 <img align="right" src="./assets/about_me.gif" width="170">
 </a>
