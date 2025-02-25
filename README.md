@@ -118,7 +118,7 @@ I'm a passionate **Software Development student**, deeply interested in **backen
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/JosueIsOffline">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Ｓｔａｔｓ】 
+   </a> 【﻿Metrics】 
 
 </h3>
 
@@ -138,9 +138,10 @@ I'm a passionate **Software Development student**, deeply interested in **backen
 <p align="center"> 
 <a href="https://user-badge.committers.top/morocco/JosueIsOffline"> 
 <!--  <img align="center" src="https://aktive.kerolloz.dev/morocco/JosueIsOffline?label=%F0%9F%92%BB%20Top%20Commiters%20In%20Morocco&labelColor=01102d&rnkPrefix=Rank%20&color=6eb9f2&style=for-the-badge" width="" />     -->
-</a></p >
+</a>
+</p >
 
- <p align="center">
+ <!-- <p align="center">
 <a href="https://github.com/JosueIsOffline">
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JosueIsOffline&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="Walid's github stats"/>
@@ -149,15 +150,32 @@ I'm a passionate **Software Development student**, deeply interested in **backen
 
 <br/>
 
-</p >
+</p > -->
+
+# My GitHub Metrics
+
+
+
+| Overview | Follow up Issues & PRs |
+|:--------:|:-------------------------:|
+| ![Lines of Code & Base Introduction](assets/metrics.plugin.code.lines.svg) | ![Follow up Issues & PRs](assets/metrics.plugin.followup.svg) |
+| Leetcode Stats | Notable Contributions |
+| ![Leetcode Stats](assets/metrics.plugin.leetcode.svg) | ![Notable Contributions](assets/metrics.plugin.notable.contributions.svg) |
+| Achievements | Language Activity |
+| ![Achievements](assets/metrics.plugin.achievements.svg) | ![Language Activity](assets/metrics.plugin.languages.activity.svg) |
+| Discussions | Reactions |
+| ![Discussions](assets/metrics.plugin.discussions.svg) | ![Reactions](assets/metrics.plugin.reactions.svg) |
+
+                    
+<br>
+<hr>
 
 
  <!--More Stats-->
 
- ![LeetCode Stats](https://leetcard.jacoblin.cool/JosueIsOffline?theme=dark&font=Saira%20Stencil%20One&ext=activity)
 
 <details open align="center">
-  <summary>📈 More Stats</summary>
+  <summary>📈 More Metrics</summary>
   <br>
  
 <p align="center">
