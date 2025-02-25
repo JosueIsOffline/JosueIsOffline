@@ -20,9 +20,9 @@
 
 ## Hi there! I'm Josué Hernández <a href="https://github.com/JosueIsOffline"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/JosueIsOffline">
 
-<a href="https://github.com/JosueIsOffline">   
-<img align="right" src="./assets/about_me.gif" width="200">
-</a>
+  
+<img align="right" src="./assets/about_me.gif" width="500">
+
 
 🚀 **Software Developer | FullStack Enthusiast | Problem Solver**
 
