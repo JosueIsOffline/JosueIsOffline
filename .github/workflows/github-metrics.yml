@@ -13,7 +13,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          output_dir: assets
       - name: Detailed display
         uses: lowlighter/metrics@latest
         with:
@@ -21,7 +20,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          output_dir: assets
       - name: Recent activity
         uses: lowlighter/metrics@latest
         with:
@@ -32,7 +30,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          output_dir: assets
       - name: Using chartist charts
         uses: lowlighter/metrics@latest
         with:
@@ -41,7 +38,6 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts_type: chartist
-          output_dir: assets
       - name: Details Languages
         uses: lowlighter/metrics@latest
         with:
@@ -52,7 +48,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
           plugin_languages_analysis_timeout: 15
-          output_dir: assets
       - name: Indepth analysis Followup
         uses: lowlighter/metrics@latest
         with:
@@ -61,7 +56,6 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-          output_dir: assets
       - name: Repositories and diff history
         uses: lowlighter/metrics@latest
         with:
@@ -72,7 +66,6 @@ jobs:
           plugin_lines_sections: repositories, history
           plugin_lines_repositories_limit: 4
           plugin_lines_history_limit: 2
-          output_dir: assets
       - name: Followers
         uses: lowlighter/metrics@latest
         with:
@@ -81,7 +74,6 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-          output_dir: assets
       - name: Indepth analysis Notable
         uses: lowlighter/metrics@latest
         with:
@@ -91,4 +83,3 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          output_dir: assets
