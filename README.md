@@ -1,8 +1,8 @@
 <div align="center">
  
-<br><p align="centre"><b>Visitors Count 🌕 </b></p>  
+<br/><p align="centre"><b>Visitors Count 🌕 </b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{🌕}/count.svg" /></p> 
-<br>
+<br/>
 </div>
 
 <br/>
@@ -17,28 +17,48 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-## 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛 />! <a href="https://github.com/JosueIsOffline"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/JosueIsOffline"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=JosueIsOffline&style=for-the-badge&color=blue"></a>
+## Hi there! I'm Josué Hernández <a href="https://github.com/JosueIsOffline"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/JosueIsOffline">
 
 
 > [!CAUTION]
-> - 🔖 Congratulations you found me
+> - 💖 Congratulations you found me
 
 <a href="https://github.com/JosueIsOffline">   
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+<img align="right" src="./assets/about_me.gif" width="170">
 </a>
+# 👋 Hi there! I'm Josué Hernández  
 
-> [!NOTE]
-> - 🚙 I’m currently working on web development technologies like `Spring Boot`, `Angular`, `React` etc.
+🚀 **Software Developer | FullStack Enthusiast | Problem Solver**  
 
-> [!IMPORTANT]
-> - 📚 I’m currently learning **Docker, Jenkins and Grafana** 😅
+I'm a passionate **Software Development student**, deeply interested in **backend development, system design, and optimization**. I love building efficient, scalable solutions and continuously improving my skills through hands-on projects.  
 
+## 🔹 What I Do  
+- 🏗 **Backend Development** – Creating reliable and scalable APIs  
+- 📊 **Databases** – Optimizing queries and working with **SQL Server, PostgreSQL, and NoSQL databases**  
+- 🔍 **Problem-Solving** – Applying algorithms and data structures to tackle complex challenges  
+- 🛠 **Tech Stack:**  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+  ![Hono.js](https://img.shields.io/badge/Hono.js-00ADD8?style=for-the-badge&logo=hono&logoColor=white)  
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+  ![Neural Network](https://img.shields.io/badge/Neural%20Network-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white)  
 
-> [!WARNING]  
-> - 💪🏼 Future Goals: Learn more technologies, starting next with **SAP Commerce** - Never stop creating new ideas.
+## 📌 What I’m Learning  
+- 🚀 Advanced **Data Structures & Algorithms** for efficient coding  
+- 📊 **SQL Server Indexing & Query Optimization**  
+- 🧠 **Neural Networks & Machine Learning** for AI applications  
 
-> [!TIP]  
-> - 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
+## 💡 Projects & Interests  
+- 🔄 Building a **versioned API** structure using **Next.js & Hono.js**  
+- 🧠 Experimenting with **Neural Networks** and AI models  
+- ♟ Practicing **chess** and keeping up with **tech trends**  
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+[![Obsidian Notes](https://img.shields.io/badge/Obsidian%20Notes-483699?style=for-the-badge&logo=obsidian&logoColor=white)](#)  
+
 
 > <p align="center">
 >  <a href="https://www.linkedin.com/in/josueisoffline/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -77,20 +97,10 @@
 <br>
 <br> 
 
-<div align="center">
 
 
-| **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
-| --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
-| <p align="center">[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/JosueIsOffline) </p>| <p align="center"> [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)](https://github.com/JosueIsOffline) </p>| <p align="center">[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot)](https://github.com/JosueIsOffline) | <p align="center">[![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)](https://github.com/JosueIsOffline) |<p align="center"> [![Eclipse](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)](https://github.com/JosueIsOffline) |  <p align="center">[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/JosueIsOffline)  |
-| <p align="center">[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center">[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)](https://github.com/JosueIsOffline) | <p align="center">[![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)](https://github.com/JosueIsOffline) | <p align="center"> [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)](https://github.com/JosueIsOffline) |<p align="center"> [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center">[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://github.com/JosueIsOffline)  |
-| <p align="center">[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center"> [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://github.com/JosueIsOffline) | <p align="center">[![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)](https://github.com/JosueIsOffline) |  <p align="center">[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)](https://github.com/JosueIsOffline) | <p align="center">[![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=ffffff)](https://github.com/JosueIsOffline) |<p align="center"> [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/JosueIsOffline)  |
-|<p align="center"> [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center">[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)](https://github.com/JosueIsOffline) |<p align="center"> [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)](https://github.com/JosueIsOffline) |  <p align="center"> [![Sqllite](https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/JosueIsOffline)                                                 |<p align="center"> [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center">[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)](https://github.com/JosueIsOffline)  |
-| <p align="center">[![C](http://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=ffffff)](https://github.com/JosueIsOffline) | <p align="center">[![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://github.com/JosueIsOffline) | <p align="center">[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)](https://github.com/JosueIsOffline) |  <p align="center">[![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=Talend&logoColor=white)](https://github.com/JosueIsOffline)  |<p align="center"> [![Microsoft Office](http://img.shields.io/badge/-Microsoft%20Office-0078D6?style=flat-square&logo=windows&logoColor=ffffff)](https://github.com/JosueIsOffline) |<p align="center"> [![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://github.com/JosueIsOffline)  |
-| <p align="center"> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://github.com/JosueIsOffline) |<p align="center">[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)](https://github.com/JosueIsOffline) |<p align="center"> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center"> [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center">[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://github.com/JosueIsOffline)  | <p align="center">[![Postman](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)](https://github.com/JosueIsOffline)                                                  |                                            |
-| <p align="center">[![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/JosueIsOffline) |<p align="center">[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center">[![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)](https://github.com/JosueIsOffline) | <p align="center"> [![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)](https://github.com/JosueIsOffline)   |  <p align="center"> [![Intelij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)](https://github.com/JosueIsOffline)      |  <p align="center">[![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)](https://github.com/JosueIsOffline)  |                                                 |
 
-</div>
+
 
 
 
@@ -144,7 +154,7 @@
 
  <!--More Stats-->
 
- 
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/JosueIsOffline?theme=dark&font=Saira%20Stencil%20One&ext=activity)
 
 <details open align="center">
   <summary>📈 More Stats</summary>
