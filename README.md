@@ -1,5 +1,5 @@
 
-# 📈 Github Statistic
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistic
 
 <div align="center">
   <a href="https://github.com/JosueIsOffline">
@@ -12,7 +12,7 @@
 
 ![JosueIsOffline GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosueIsOffline&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JosueIsOffline&theme=algolia&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JosueIsOffline&theme=github_dark&no-frame=true&margin-w=10&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
