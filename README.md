@@ -13,7 +13,7 @@
  
 
 <!-- -->
-<a href="https://github.com/JosueIsOffline"><img src="https://readme-typing-svg.demolab.com?font=Montserrat+&duration=3000&pause=500&color=25BE42&multiline=true&width=675&height=105&lines=Josu%C3%A9+Hern%C3%A1ndez+;Software+Development+Student+;Full+Stack+Developer+%7C+Next.js++%7C+SQL+Server+%7C+C%23+%7C+TypeScript" alt="Typing SVG" /></a>
+<a href="https://github.com/JosueIsOffline"><img align="center" src="https://readme-typing-svg.demolab.com?font=Montserrat+&duration=3000&pause=500&color=25BE42&multiline=true&width=675&height=105&lines=Josu%C3%A9+Hern%C3%A1ndez+;Software+Development+Student+;Full+Stack+Developer+%7C+Next.js++%7C+SQL+Server+%7C+C%23+%7C+TypeScript" alt="Typing SVG" /></a>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -118,7 +118,7 @@ I'm a passionate **Software Development student**, deeply interested in **backen
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/JosueIsOffline">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿Metrics】 
+   </a> 【﻿Ｓｔａｔｓ】 
 
 </h3>
 
@@ -152,9 +152,6 @@ I'm a passionate **Software Development student**, deeply interested in **backen
 
 </p > -->
 
-# My GitHub Metrics
-
-
 
 | Overview | Follow up Issues & PRs |
 |:--------:|:-------------------------:|
@@ -175,7 +172,7 @@ I'm a passionate **Software Development student**, deeply interested in **backen
 
 
 <details open align="center">
-  <summary>📈 More Metrics</summary>
+  <summary>📈 More Stats</summary>
   <br>
  
 <p align="center">
