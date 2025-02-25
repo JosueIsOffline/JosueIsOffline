@@ -1,4 +1,9 @@
 
+
+
+
+
+
 # 📈 Github Statistic
 
 <div align="center">
@@ -8,7 +13,6 @@
   </a>
 </div>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=JosueIsOffline&theme=algolia&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
 
 ![JosueIsOffline GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JosueIsOffline&hide_border=true&bg_color=050F2C&color=0194DD&line=0194DD&point=2DDD97)
 
