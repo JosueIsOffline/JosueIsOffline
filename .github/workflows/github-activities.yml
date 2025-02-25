@@ -1,18 +1,27 @@
-name: Github Activities
-
+# Read the full reference here: https://github.com/lowlighter/metrics/blob/master/action.yml
+name: Achievements 
 on:
-  schedule:
-    # Runs every week on Monday at 9:00 AM
-    - cron: '0 9 * * 1'
+  # Schedule updates (Every Monday at 9am)
+  schedule: [{ cron: '0 9 * * 1' }]
+  # Lines below let you run workflow manually with each commit
   workflow_dispatch:
-
+  push: { branches: ["master", "main", "metrics"] }
 jobs:
-  build:
+  # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
+  achievement-metrics:      
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent github activity
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics.plugin.achievements.svg
+
+          # Options
+          user: JosueIsOffline
+          template: classic
+          base: ""
+          config_timezone: America/Santo_Domingo
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
