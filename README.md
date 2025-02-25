@@ -27,7 +27,7 @@
 <a href="https://github.com/JosueIsOffline">   
 <img align="right" src="./assets/about_me.gif" width="170">
 </a>
-🚀 **Software Developer | FullStack Enthusiast | Problem Solver**  
+🚀 ###Software Developer | FullStack Enthusiast | Problem Solver 
 
 I'm a passionate **Software Development student**, deeply interested in **backend development, system design, and optimization**. I love building efficient, scalable solutions and continuously improving my skills through hands-on projects.  
 
