@@ -1,3 +1,8 @@
+<a href="https://github.com/JosueIsOffline">   
+<img align="right" src="./assets/about_me.gif" width="170">
+</a>
+
+
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistic
 
 <p align="center">
