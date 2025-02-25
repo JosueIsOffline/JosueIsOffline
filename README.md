@@ -1,4 +1,34 @@
-<h2> Hello there, I'm Josué Hernández <img src="./assets/hi.gif" height="25px"></h2>
+# <img src="./assets/hi.gif" height="25px"> Hello there, I'm Josué Hernández
+
+🚀 **Software Developer | Passionate About Backend and Optimization**  
+
+📌 Currently studying **Software Development (4th semester)**.  
+🔍 Exploring new technologies and **constantly improving my skills** in **backend, databases, and efficient architectures**.  
+💡 Focused on **solving problems structurally** and writing **clean, scalable, and secure code**.  
+
+## 🔧 Technologies & Tools  
+- **Backend:** Node.js (Hono.js, Express), C# (.NET), SQL Server, PostgreSQL  
+- **Frontend:** Next.js, React, TypeScript  
+- **DevOps & Databases:** Docker, Prisma, Clerk, SQL Server Indexing  
+
+## 📚 Currently Learning  
+- Query optimization and indexing in **SQL Server**  
+- Software architecture and design patterns  
+- Odoo for business management  
+
+## 🚀 Projects I'm Working On  
+- **🔹 Dynamic API versioning with Next.js & Hono.js**  
+- **🔹 Order automation system for a pizzeria**  
+- **🔹 Business management system with Odoo**  
+
+## 📌 How I Work  
+✔️ Prioritize efficiency and security in code  
+✔️ Structure solutions before writing code  
+✔️ Continuously learning and applying **best development practices**  
+
+🌱 Always looking for **new challenges and growth opportunities** 🚀  
+
+📫 **Contact me:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
 
 
 <a href="https://github.com/JosueIsOffline">   
