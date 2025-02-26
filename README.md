@@ -6,6 +6,10 @@
 A passionate software developer focused on **backend engineering, system optimization, and AI applications**.  
 Lifelong learner, problem solver, and always looking for ways to **build scalable and efficient solutions**. 🚀💡  
 
+<a href="https://github.com/JosueIsOffline">   
+<img align="right" src="./assets/about_me.gif" width="170">
+</a>
+
 - 💻 **Backend Developer** specializing in **Node.js (Hono.js, Express), C# (.NET), SQL Server**  
 - ⚡ Passionate about **high-performance databases, API design, and distributed systems**  
 - 🤖 Currently exploring **Neural Networks & AI applications**  
@@ -13,9 +17,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - ☕ Coffee-powered coder, always looking for the best **problem-solving approaches**  
 - 🎯 Building efficient, scalable, and secure software solutions  
 
-<a href="https://github.com/JosueIsOffline">   
-<img align="right" src="./assets/about_me.gif" width="170">
-</a>
+
 
 📫 **Let's connect:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
 
