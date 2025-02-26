@@ -24,7 +24,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
   <tbody>
     <tr>
       <td><a href="https://github.com/JosueIsOffline/clarencebot"><b>🚀 Clarence Bot</b></a></td>
-      <td>A powerful and versatile bot designed to automate tasks, interact across platforms, and enhance user engagement. It welcomes new users and stores their information in a MySQL database using Sequelize ORM. Additionally, it integrates with the ChatGPT API for intelligent responses. Open-source and efficient.</td>
+      <td>A versatile bot that automates tasks, greets new users, and stores their data in MySQL using Sequelize ORM. It also integrates with the ChatGPT API for smart interactions.</td>
     </tr>
   </tbody>
 </table>
