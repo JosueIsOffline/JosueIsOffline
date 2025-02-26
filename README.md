@@ -1,4 +1,4 @@
-## <img src="./assets/hi.gif" height="50px"> Hello there, I'm Josué Hernández
+## <img src="./assets/hi.gif" height="35px"> Hello there, I'm Josué Hernández
 
 
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=500&lines=Software+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Tech+Explorer)
@@ -18,12 +18,20 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - 🎯 Building efficient, scalable, and secure software solutions  
 
 
-
 📫 **Let's connect:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
 
+## ⭐️ Open Source Projects
 
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/JosueIsOffline/clarencebot"><b>🚀 Clarence Bot</b></a></td>
+      <td>Un bot versátil y automatizado para diversas tareas. Código abierto y en constante mejora.</td>
+    </tr>
+  </tbody>
+</table>
 
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistic
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistic
 
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosueIsOffline&theme=github_dark" />
