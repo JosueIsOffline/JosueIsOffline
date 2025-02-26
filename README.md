@@ -1,26 +1,28 @@
 # <img src="./assets/hi.gif" height="25px"> Hello there, I'm Josué Hernández
 
-🚀 **Software Developer | Passionate About Backend and Optimization**  
+<a href="https://github.com/JosueIsOffline">   
+<img align="right" src="./assets/about_me.gif" width="170">
+</a>
 
-📌 Currently studying **Software Development (4th semester)**.  
-🔍 Exploring new technologies and **constantly improving my skills** in **backend, databases, and efficient architectures**.  
-💡 Focused on **solving problems structurally** and writing **clean, scalable, and secure code**.  
+🚀 **Software Developer | FullStack Enthusiast | Problem Solver**  
 
-## 🔧 Technologies & Tools  
-- **Backend:** Node.js (Hono.js, Express), C# (.NET), SQL Server, PostgreSQL  
-- **Frontend:** Next.js, React, TypeScript  
-- **DevOps & Databases:** Docker, Prisma, Clerk, SQL Server Indexing  
+I'm a passionate **Software Development student**, deeply interested in **backend development, system design, and optimization**. I love building efficient, scalable solutions and continuously improving my skills through hands-on projects.  
 
-## 📚 Currently Learning  
-- Query optimization and indexing in **SQL Server**  
-- Software architecture and design patterns  
-- Odoo for business management  
+## 🔹 What I Do  
+- 🏠 **Backend Development** – Creating reliable and scalable APIs  
+- 📊 **Databases** – Optimizing queries and working with **SQL Server, PostgreSQL, and NoSQL databases**  
+- 🔍 **Problem-Solving** – Applying algorithms and data structures to tackle complex challenges  
+- 🛠 **Tech Stack:**  
 
-## 🚀 Projects I'm Working On  
-- **🔹 Dynamic API versioning with Next.js & Hono.js**  
-- **🔹 Order automation system for a pizzeria**  
-- **🔹 Business management system with Odoo**  
+## 📌 What I’m Learning  
+- 🚀 Advanced **Data Structures & Algorithms** for efficient coding  
+- 📊 **SQL Server Indexing & Query Optimization**  
+- 🧠 **Neural Networks & Machine Learning** for AI applications  
 
+## 💡 Projects & Interests  
+- 🔄 Building a **versioned API** structure using **Next.js & Hono.js**  
+- 🧠 Experimenting with **Neural Networks** and AI models  
+- ♟ Practicing **chess** and keeping up with **tech trends**
 ## 📌 How I Work  
 ✔️ Prioritize efficiency and security in code  
 ✔️ Structure solutions before writing code  
@@ -31,9 +33,7 @@
 📫 **Contact me:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
 
 
-<a href="https://github.com/JosueIsOffline">   
-<img align="right" src="./assets/about_me.gif" width="170">
-</a>
+
 
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistic
