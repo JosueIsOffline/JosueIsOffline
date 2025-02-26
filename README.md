@@ -1,15 +1,10 @@
-## <img src="./assets/hi.gif" height="25px"> Hello there, I'm Josué Hernández
+## <img src="./assets/hi.gif" height="50px"> Hello there, I'm Josué Hernández
 
-<a href="https://github.com/JosueIsOffline">   
-<img align="right" src="./assets/about_me.gif" width="170">
-</a>
 
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=500&lines=Software+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Tech+Explorer)
 
 A passionate software developer focused on **backend engineering, system optimization, and AI applications**.  
 Lifelong learner, problem solver, and always looking for ways to **build scalable and efficient solutions**. 🚀💡  
-
-[![nominate](https://img.shields.io/badge/Star-Nominate%20@josuehernandez-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)  
 
 - 💻 **Backend Developer** specializing in **Node.js (Hono.js, Express), C# (.NET), SQL Server**  
 - ⚡ Passionate about **high-performance databases, API design, and distributed systems**  
@@ -17,6 +12,10 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - 📚 Always learning **query optimization, system architecture, and advanced algorithms**  
 - ☕ Coffee-powered coder, always looking for the best **problem-solving approaches**  
 - 🎯 Building efficient, scalable, and secure software solutions  
+
+<a href="https://github.com/JosueIsOffline">   
+<img align="right" src="./assets/about_me.gif" width="170">
+</a>
 
 📫 **Let's connect:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
 
