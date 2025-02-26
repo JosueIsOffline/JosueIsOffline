@@ -1,24 +1,22 @@
 ## <img src="./assets/hi.gif" height="35px"> Hello there, I'm Josué Hernández
 
-
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=500&lines=Software+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Tech+Explorer)
 
 A passionate software developer focused on **backend engineering, system optimization, and AI applications**.  
-Lifelong learner, problem solver, and always looking for ways to **build scalable and efficient solutions**. 🚀💡  
+Lifelong learner, problem solver, and always looking for ways to **build scalable and efficient solutions**. 🚀💡
 
 <a href="https://github.com/JosueIsOffline">   
 <img align="right" src="./assets/about_me.gif" width="250">
 </a>
 
-- 💻 **Backend Developer** specializing in **Node.js (Hono.js, Express), C# (.NET), SQL Server**  
-- ⚡ Passionate about **high-performance databases, API design, and distributed systems**  
-- 🤖 Currently exploring **Neural Networks & AI applications**  
-- 📚 Always learning **query optimization, system architecture, and advanced algorithms**  
-- ☕ Coffee-powered coder, always looking for the best **problem-solving approaches**  
-- 🎯 Building efficient, scalable, and secure software solutions  
+- 💻 **Backend Developer** specializing in **Node.js (Hono.js, Express), C# (.NET), SQL Server**
+- ⚡ Passionate about **high-performance databases, API design, and distributed systems**
+- 🤖 Currently exploring **Neural Networks & AI applications**
+- 📚 Always learning **query optimization, system architecture, and advanced algorithms**
+- ☕ Coffee-powered coder, always looking for the best **problem-solving approaches**
+- 🎯 Building efficient, scalable, and secure software solutions
 
-
-📫 **Let's connect:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
+📫 **Let's connect:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)
 
 ## ⭐️ Open Source Projects
 
@@ -26,7 +24,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
   <tbody>
     <tr>
       <td><a href="https://github.com/JosueIsOffline/clarencebot"><b>🚀 Clarence Bot</b></a></td>
-      <td>Un bot versátil y automatizado para diversas tareas. Código abierto y en constante mejora.</td>
+      <td>A powerful and versatile bot designed to automate tasks, interact across platforms, and enhance user engagement. It welcomes new users and stores their information in a MySQL database using Sequelize ORM. Additionally, it integrates with the ChatGPT API for intelligent responses. Open-source and efficient.</td>
     </tr>
   </tbody>
 </table>
