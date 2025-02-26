@@ -4,35 +4,21 @@
 <img align="right" src="./assets/about_me.gif" width="170">
 </a>
 
-🚀 **Software Developer | FullStack Enthusiast | Problem Solver**  
+![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=500&lines=Software+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Tech+Explorer)
 
-I'm a passionate **Software Development student**, deeply interested in **backend development, system design, and optimization**. I love building efficient, scalable solutions and continuously improving my skills through hands-on projects.  
+A passionate software developer focused on **backend engineering, system optimization, and AI applications**.  
+Lifelong learner, problem solver, and always looking for ways to **build scalable and efficient solutions**. 🚀💡  
 
-## 🔹 What I Do  
-- 🏠 **Backend Development** – Creating reliable and scalable APIs  
-- 📊 **Databases** – Optimizing queries and working with **SQL Server, PostgreSQL, and NoSQL databases**  
-- 🔍 **Problem-Solving** – Applying algorithms and data structures to tackle complex challenges  
-- 🛠 **Tech Stack:**  
+[![nominate](https://img.shields.io/badge/Star-Nominate%20@josuehernandez-ffdd00.svg?logo=github&labelColor=181717&longCache=true&style=for-the-badge)](https://stars.github.com/nominate)  
 
-## 📌 What I’m Learning  
-- 🚀 Advanced **Data Structures & Algorithms** for efficient coding  
-- 📊 **SQL Server Indexing & Query Optimization**  
-- 🧠 **Neural Networks & Machine Learning** for AI applications  
+- 💻 **Backend Developer** specializing in **Node.js (Hono.js, Express), C# (.NET), SQL Server**  
+- ⚡ Passionate about **high-performance databases, API design, and distributed systems**  
+- 🤖 Currently exploring **Neural Networks & AI applications**  
+- 📚 Always learning **query optimization, system architecture, and advanced algorithms**  
+- ☕ Coffee-powered coder, always looking for the best **problem-solving approaches**  
+- 🎯 Building efficient, scalable, and secure software solutions  
 
-## 💡 Projects & Interests  
-- 🔄 Building a **versioned API** structure using **Next.js & Hono.js**  
-- 🧠 Experimenting with **Neural Networks** and AI models  
-- ♟ Practicing **chess** and keeping up with **tech trends**
-## 📌 How I Work  
-✔️ Prioritize efficiency and security in code  
-✔️ Structure solutions before writing code  
-✔️ Continuously learning and applying **best development practices**  
-
-🌱 Always looking for **new challenges and growth opportunities** 🚀  
-
-📫 **Contact me:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
-
-
+📫 **Let's connect:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)  
 
 
 
