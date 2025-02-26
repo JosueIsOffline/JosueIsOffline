@@ -1,4 +1,4 @@
-# <img src="./assets/hi.gif" height="25px"> Hello there, I'm Josué Hernández
+## <img src="./assets/hi.gif" height="25px"> Hello there, I'm Josué Hernández
 
 <a href="https://github.com/JosueIsOffline">   
 <img align="right" src="./assets/about_me.gif" width="170">
