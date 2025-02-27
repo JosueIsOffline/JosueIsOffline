@@ -69,4 +69,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 </table>
 </table>
 
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/JosueIsOffline?theme=dark&font=Ruluko&ext=activity) -->
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
