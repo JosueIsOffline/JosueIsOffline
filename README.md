@@ -18,6 +18,31 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 📫 **Let's connect:** [LinkedIn](#) | [Twitter](#) | [Portfolio](#)
 
+## <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> A little bit about my coding experience...
+```javascript
+   const josue = {
+    pronouns: "He" | "Him",
+    bio: "Hello! I'm Josue Hernandez, passionate about software development and technology in general.
+          I enjoy exploring new technologies and working on challenging projects.",
+    current_university: "Instituto Tecnológico de Las Américas (ITLA)",
+    askMeAbout: ["App dev", "Web dev", "tech"],
+    technologies: {
+        backEnd: {
+           javaScript: ["Nodejs", "Express", "Nest.js", "Hono"],
+           python: ["Flask", "Fastapi"],
+           c-sharp: ["ASP.NET Core", "ASP.NET MVC", "Blazor"]
+        },
+        frontEnd: ["React", "Next.js", "Vite", "Vue", "Astro"],
+        mobileApp: ["React-native"],
+        database: ["Mongo","MySql", "PostgreeSQL", "SQL Server", "Sequelize", "TypeORM", "SQLAlchemy", "Neon", "Drizzle ORM"],
+        devOps: ["Docker"],
+        testing: ["Mocha", "SuperTest", "Jest"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "Microservices", "Event-driven", "Single page applications"],
+}
+```
+
 ## ⭐️ Open Source Projects
 
 <table>
