@@ -21,7 +21,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35">  A little bit about my coding experience...
 ```javascript
    const josue = {
-    pronouns: "He" | "Him",
     current_university: "Instituto Tecnológico de Las Américas (ITLA)",
     askMeAbout: ["App dev", "Web dev", "tech"],
     technologies: {
