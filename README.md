@@ -1,4 +1,4 @@
-## <img src="./assets/hi.gif" height="35px"> Hello there, I'm Josué Hernández
+## <img src="./assets/hi.gif" height="25px"> Hello there, I'm Josué Hernández
 
 ![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=500&lines=Software+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Tech+Explorer)
 
