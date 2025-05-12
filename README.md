@@ -6,7 +6,7 @@ A passionate software developer focused on **backend engineering, system optimiz
 Lifelong learner, problem solver, and always looking for ways to **build scalable and efficient solutions**. 🚀💡
 
 <a href="https://github.com/JosueIsOffline">   
-<img align="right" src="./assets/about_me.gif" width="230">
+<img align="right" src="./assets/about_me.gif" width="210">
 </a>
 
 - 💻 **Backend Developer** specializing in **Node.js (Hono.js, Express), C# (.NET), SQL Server**
