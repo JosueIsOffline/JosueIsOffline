@@ -64,8 +64,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
     <td width="50%">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueIsOffline&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
     </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=JosueIsOffline&theme=dark&background=0D1117&border=30363D&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+     <td width="50%">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=JosueIsOffline&theme=tokyonight_duo&hide_border=true" />
     </td>
   </tr>
 </table>
