@@ -1,6 +1,10 @@
-## <img src="./assets/hi.gif" height="25px"> Hello there, I'm Josué Hernández
+<div align="center">
 
-![typing svg](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=7B3FE4&width=500&lines=Software+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Tech+Explorer)
+**// VeryRare4Ever //**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%3E+Crafting+digital+realities...;%3E+Weaving+code+into+existence...;%3E+Debugging+in+the+shadows...;%3E+Where+logic+meets+creativity...)](https://git.io/typing-svg)
+
+</div>
 
 A passionate software developer focused on **backend engineering, system optimization, and AI applications**.  
 Lifelong learner, problem solver, and always looking for ways to **build scalable and efficient solutions**. 🚀💡
@@ -9,7 +13,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 <img align="right" src="./assets/about_me.gif" width="180">
 </a>
 
-- 💻 **Backend Developer** specializing in **Node.js (Hono.js, Express), C# (.NET), SQL Server**
 - ⚡ Passionate about **high-performance databases, API design, and distributed systems**
 - 📚 Always learning **query optimization, system architecture, and advanced algorithms**
 - ☕ Coffee-powered coder, always looking for the best **problem-solving approaches**
@@ -62,7 +65,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueIsOffline&layout=compact&hide_border=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
     </td>
     <td width="50%">
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=JosueIsOffline&theme=tokyonight_duo&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=JosueIsOffline&theme=dark&background=0D1117&border=30363D&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
     </td>
   </tr>
 </table>
