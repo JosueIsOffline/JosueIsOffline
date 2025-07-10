@@ -18,7 +18,7 @@ jobs:
     steps: 
       - uses: actions/checkout@v4 
 
-      - uses: JosueIsOffline/readme-markgen-action@main
+      - uses: JosueIsOffline/readme-gerenerate-action@main
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
