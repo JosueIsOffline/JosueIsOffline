@@ -28,6 +28,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: update generated README"
+          branch: main
           commit_user_name: JosueIsOffline
           commit_user_email: josuehernandez2314@gmail.com
           commit_author: JosueIsOffline <josuehernandez2314@gmail.com>
