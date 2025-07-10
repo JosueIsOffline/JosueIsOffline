@@ -43,20 +43,25 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ```
 
 ## 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
+{{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
-## ⭐️ Open Source Projects
+## 🔨 Latest Pull Requests I published
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
-<table>
+<!-- ## ⭐️ Open Source Projects -->
+
+<!-- <table>
   <tbody>
     <tr>
       <td><a href="https://github.com/JosueIsOffline/clarencebot"><b>🚀 Clarence Bot</b></a></td>
       <td>A versatile bot that automates tasks, greets new users, and stores their data in MySQL using Sequelize ORM. It also integrates with the ChatGPT API for smart interactions.</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistic
 
@@ -79,3 +84,4 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/JosueIsOffline?theme=dark&font=Ruluko&ext=activity) -->
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
