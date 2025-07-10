@@ -42,6 +42,19 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 }
 ```
 
+## 👷 Check out what I'm currently working on
+
+- [JosueIsOffline/readme-gerenerate-action](https://github.com/JosueIsOffline/readme-gerenerate-action) (1 day ago)
+- [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing (1 day ago)
+- [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration (3 days ago)
+- [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) (5 days ago)
+- [JosueIsOffline/auto-login-itla](https://github.com/JosueIsOffline/auto-login-itla) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). (1 week ago)
+- [JosueIsOffline/CLIfficiency](https://github.com/JosueIsOffline/CLIfficiency) (1 week ago)
+- [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) - About (1 month ago)
+- [JosueIsOffline/homework1](https://github.com/JosueIsOffline/homework1) (1 month ago)
+- [JosueIsOffline/db-final-project](https://github.com/JosueIsOffline/db-final-project) - Sistema de gestión para cadena minorista. Proyecto final de Base de Datos Avanzadas (ITLA). Implementación SQL Server + NoSQL con consultas complejas, procedimientos, triggers y arquitectura distribuida. (2 months ago)
+- [JosueIsOffline/ai-dino](https://github.com/JosueIsOffline/ai-dino) (3 months ago)
+
 ## ⭐️ Open Source Projects
 
 <table>
@@ -74,4 +87,3 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/JosueIsOffline?theme=dark&font=Ruluko&ext=activity) -->
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-
