@@ -11,22 +11,21 @@ on:
 jobs:
   markgen: 
     runs-on: ubuntu-latest
-    steps: 
-      - uses: actions/checkout@main
 
-      - uses: JosueIsOffline/readme-gerenerate-action@main
-        env: 
-          GITHUB_TOKEN: ${{secrets.PERSONAL_GITHUB_TOKEN}}
+    permissions:
+      contents: write  
+
+    steps: 
+      - uses: actions/checkout@v4 
+
+      - uses: JosueIsOffline/readme-markgen-action@main
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v6
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           commit_message: "chore: update generated README"
-          branch: main
           commit_user_name: JosueIsOffline
           commit_user_email: josuehernandez2314@gmail.com
           commit_author: JosueIsOffline <josuehernandez2314@gmail.com>
