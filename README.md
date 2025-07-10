@@ -44,27 +44,30 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 👷 Check out what I'm currently working on
 
-- [JosueIsOffline/readme-gerenerate-action](https://github.com/JosueIsOffline/readme-gerenerate-action) (1 day ago)
 - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing (1 day ago)
 - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration (3 days ago)
 - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) (5 days ago)
 - [JosueIsOffline/auto-login-itla](https://github.com/JosueIsOffline/auto-login-itla) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). (1 week ago)
 - [JosueIsOffline/CLIfficiency](https://github.com/JosueIsOffline/CLIfficiency) (1 week ago)
-- [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) - About (1 month ago)
-- [JosueIsOffline/homework1](https://github.com/JosueIsOffline/homework1) (1 month ago)
-- [JosueIsOffline/db-final-project](https://github.com/JosueIsOffline/db-final-project) - Sistema de gestión para cadena minorista. Proyecto final de Base de Datos Avanzadas (ITLA). Implementación SQL Server + NoSQL con consultas complejas, procedimientos, triggers y arquitectura distribuida. (2 months ago)
-- [JosueIsOffline/ai-dino](https://github.com/JosueIsOffline/ai-dino) (3 months ago)
 
-## ⭐️ Open Source Projects
+## 🔨 Latest Pull Requests I published
 
-<table>
+- [feat(auth): implement JWT authentication (#11)](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) (1 week ago)
+- [Revert "Create tasks1.js"](https://github.com/JosueIsOffline/learning-js/pull/4) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) (2 weeks ago)
+- [feat: add controlled game start with start screen overlay](https://github.com/ryzrr/SNAKE/pull/5) on [ryzrr/SNAKE](https://github.com/ryzrr/SNAKE) (2 weeks ago)
+- [test](https://github.com/JosueIsOffline/learning-js/pull/1) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) (3 weeks ago)
+- [feat: set up base layout with sidebar, theme provider and initial pages](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/9) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) (3 weeks ago)
+
+<!-- ## ⭐️ Open Source Projects -->
+
+<!-- <table>
   <tbody>
     <tr>
       <td><a href="https://github.com/JosueIsOffline/clarencebot"><b>🚀 Clarence Bot</b></a></td>
       <td>A versatile bot that automates tasks, greets new users, and stores their data in MySQL using Sequelize ORM. It also integrates with the ChatGPT API for smart interactions.</td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Statistic
 
@@ -87,3 +90,4 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/JosueIsOffline?theme=dark&font=Ruluko&ext=activity) -->
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
