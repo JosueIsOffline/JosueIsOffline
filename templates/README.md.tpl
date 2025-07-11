@@ -56,11 +56,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 {{- end}}
 
-{{range recentCommits 5}}
-> 🎯 **[{{.Message}}]({{.URL}})**  
-> 📦 {{.Repo.Name}} • ⏰ {{humanize .CreatedAt}}
-{{- end}}
-
 <!-- ## ⭐️ Open Source Projects -->
 
 <!-- <table>
