@@ -44,25 +44,25 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - ⫷⫷⫷ 《 JosueIsOffline/learning-js 》 ⫸⫸⫸  
-   ⤝ Desc:    learing  
-   ⤞ Updated: 2 days ago  
+ - JosueIsOffline/learning-js  
+     ↦ learing  
+     ↺ 2 days ago  
    ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
- - ⫷⫷⫷ 《 JosueIsOffline/dotfiles 》 ⫸⫸⫸  
-   ⤝ Desc:    My configuration  
-   ⤞ Updated: 4 days ago  
+ - JosueIsOffline/dotfiles  
+     ↦ My configuration  
+     ↺ 4 days ago  
    ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
- - ⫷⫷⫷ 《 JosueIsOffline/web-programming-itla 》 ⫸⫸⫸  
-   ⤝ Desc:      
-   ⤞ Updated: 6 days ago  
+ - JosueIsOffline/web-programming-itla  
+     ↦   
+     ↺ 6 days ago  
    ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
- - ⫷⫷⫷ 《 JosueIsOffline/auto-login-itla 》 ⫸⫸⫸  
-   ⤝ Desc:    Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
-   ⤞ Updated: 1 week ago  
+ - JosueIsOffline/auto-login-itla  
+     ↦ Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
+     ↺ 1 week ago  
    ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
- - ⫷⫷⫷ 《 JosueIsOffline/CLIfficiency 》 ⫸⫸⫸  
-   ⤝ Desc:      
-   ⤞ Updated: 2 weeks ago  
+ - JosueIsOffline/CLIfficiency  
+     ↦   
+     ↺ 2 weeks ago  
    ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
 
 ## 🔨 Latest Pull Requests I published
