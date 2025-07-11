@@ -44,21 +44,26 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
-- 🛠️ [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)  
-  learing  
-  ⏳ _Updated 2 days ago_
-- 🛠️ [`JosueIsOffline/dotfiles`](https://github.com/JosueIsOffline/dotfiles)  
-  My configuration  
-  ⏳ _Updated 4 days ago_
-- 🛠️ [`JosueIsOffline/web-programming-itla`](https://github.com/JosueIsOffline/web-programming-itla)  
-    
-  ⏳ _Updated 6 days ago_
-- 🛠️ [`JosueIsOffline/auto-login-itla`](https://github.com/JosueIsOffline/auto-login-itla)  
-  Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
-  ⏳ _Updated 1 week ago_
-- 🛠️ [`JosueIsOffline/CLIfficiency`](https://github.com/JosueIsOffline/CLIfficiency)  
-    
-  ⏳ _Updated 2 weeks ago_
+ - ⫷⫷⫷ 《 JosueIsOffline/learning-js 》 ⫸⫸⫸  
+   ⤝ Desc:    learing  
+   ⤞ Updated: 2 days ago  
+   ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
+ - ⫷⫷⫷ 《 JosueIsOffline/dotfiles 》 ⫸⫸⫸  
+   ⤝ Desc:    My configuration  
+   ⤞ Updated: 4 days ago  
+   ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
+ - ⫷⫷⫷ 《 JosueIsOffline/web-programming-itla 》 ⫸⫸⫸  
+   ⤝ Desc:      
+   ⤞ Updated: 6 days ago  
+   ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
+ - ⫷⫷⫷ 《 JosueIsOffline/auto-login-itla 》 ⫸⫸⫸  
+   ⤝ Desc:    Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
+   ⤞ Updated: 1 week ago  
+   ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
+ - ⫷⫷⫷ 《 JosueIsOffline/CLIfficiency 》 ⫸⫸⫸  
+   ⤝ Desc:      
+   ⤞ Updated: 2 weeks ago  
+   ⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐⟐
 
 ## 🔨 Latest Pull Requests I published
 
