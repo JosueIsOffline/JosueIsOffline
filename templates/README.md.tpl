@@ -44,9 +44,9 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 {{range recentContributions 5}}
- - ⤿ ❮[`{{.Repo.Name}}`]({{.Repo.URL}})❯  
-     ⫸ {{.Repo.Description}}{{if .Repo.Description}}{{end}}  
-     ⤷ ⏱ {{humanize .OccurredAt}}
+ - [`{{.Repo.Name}}`]({{.Repo.URL}})
+     {{ printf "≡ %s" .Repo.Description }}{{if .Repo.Description}}{{end}}  
+     ↺ {{humanize .OccurredAt}}
 
 {{- end}}
 
