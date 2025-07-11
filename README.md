@@ -44,39 +44,29 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
-🛠️ [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)  
-learing  
-⏳ _Updated 2 days ago_
-🛠️ [`JosueIsOffline/dotfiles`](https://github.com/JosueIsOffline/dotfiles)  
-My configuration  
-⏳ _Updated 4 days ago_
-🛠️ [`JosueIsOffline/web-programming-itla`](https://github.com/JosueIsOffline/web-programming-itla)  
-  
-⏳ _Updated 6 days ago_
-🛠️ [`JosueIsOffline/auto-login-itla`](https://github.com/JosueIsOffline/auto-login-itla)  
-Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
-⏳ _Updated 1 week ago_
-🛠️ [`JosueIsOffline/CLIfficiency`](https://github.com/JosueIsOffline/CLIfficiency)  
-  
-⏳ _Updated 2 weeks ago_
+• [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js) — learing  
+  ⤷ _2 days ago_
+• [`JosueIsOffline/dotfiles`](https://github.com/JosueIsOffline/dotfiles) — My configuration  
+  ⤷ _4 days ago_
+• [`JosueIsOffline/web-programming-itla`](https://github.com/JosueIsOffline/web-programming-itla) —   
+  ⤷ _6 days ago_
+• [`JosueIsOffline/auto-login-itla`](https://github.com/JosueIsOffline/auto-login-itla) — Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
+  ⤷ _1 week ago_
+• [`JosueIsOffline/CLIfficiency`](https://github.com/JosueIsOffline/CLIfficiency) —   
+  ⤷ _2 weeks ago_
 
 ## 🔨 Latest Pull Requests I published
 
-📮 [`feat(auth): implement JWT authentication (#11)`](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12)  
-📁 Repo: [`JosueIsOffline/itla-programming2-exercises`](https://github.com/JosueIsOffline/itla-programming2-exercises)  
-📆 _Opened 1 week ago_
-📮 [`Revert "Create tasks1.js"`](https://github.com/JosueIsOffline/learning-js/pull/4)  
-📁 Repo: [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)  
-📆 _Opened 2 weeks ago_
-📮 [`feat: add controlled game start with start screen overlay`](https://github.com/ryzrr/SNAKE/pull/5)  
-📁 Repo: [`ryzrr/SNAKE`](https://github.com/ryzrr/SNAKE)  
-📆 _Opened 2 weeks ago_
-📮 [`test`](https://github.com/JosueIsOffline/learning-js/pull/1)  
-📁 Repo: [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)  
-📆 _Opened 3 weeks ago_
-📮 [`feat: set up base layout with sidebar, theme provider and initial pages`](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/9)  
-📁 Repo: [`JosueIsOffline/itla-programming2-exercises`](https://github.com/JosueIsOffline/itla-programming2-exercises)  
-📆 _Opened 3 weeks ago_
+• [`feat(auth): implement JWT authentication (#11)`](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) @ [`JosueIsOffline/itla-programming2-exercises`](https://github.com/JosueIsOffline/itla-programming2-exercises)  
+  ⤷ _1 week ago_
+• [`Revert "Create tasks1.js"`](https://github.com/JosueIsOffline/learning-js/pull/4) @ [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)  
+  ⤷ _2 weeks ago_
+• [`feat: add controlled game start with start screen overlay`](https://github.com/ryzrr/SNAKE/pull/5) @ [`ryzrr/SNAKE`](https://github.com/ryzrr/SNAKE)  
+  ⤷ _2 weeks ago_
+• [`test`](https://github.com/JosueIsOffline/learning-js/pull/1) @ [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)  
+  ⤷ _3 weeks ago_
+• [`feat: set up base layout with sidebar, theme provider and initial pages`](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/9) @ [`JosueIsOffline/itla-programming2-exercises`](https://github.com/JosueIsOffline/itla-programming2-exercises)  
+  ⤷ _3 weeks ago_
 
 <!-- ## ⭐️ Open Source Projects -->
 
