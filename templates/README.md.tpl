@@ -44,15 +44,17 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 {{range recentContributions 5}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) — {{.Repo.Description}}{{if .Repo.Description}}{{end}}  
-  ⤷ _{{humanize .OccurredAt}}_
+- 🛠️ [`{{.Repo.Name}}`]({{.Repo.URL}})  
+  {{.Repo.Description}}{{if .Repo.Description}}{{end}}  
+  ⏳ _Updated {{humanize .OccurredAt}}_
 
 {{- end}}
 
 ## 🔨 Latest Pull Requests I published
 {{range recentPullRequests 5}}
-- [`{{.Title}}`]({{.URL}}) @ [`{{.Repo.Name}}`]({{.Repo.URL}})  
-  ⤷ _{{humanize .CreatedAt}}_
+- 📮 [`{{.Title}}`]({{.URL}})  
+  📁 Repo: [`{{.Repo.Name}}`]({{.Repo.URL}})  
+  📆 _Opened {{humanize .CreatedAt}}_
 
 {{- end}}
 
