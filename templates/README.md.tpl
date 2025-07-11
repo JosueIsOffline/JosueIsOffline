@@ -42,14 +42,16 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 }
 ```
 
-## 👷 Check out what I'm currently working on
+## 🔥 What I'm Cooking Lately
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+• [`{{.Repo.Name}}`]({{.Repo.URL}}) — {{.Repo.Description}}{{if .Repo.Description}}{{end}}  
+  ⤷ _{{humanize .OccurredAt}}_
 {{- end}}
 
 ## 🔨 Latest Pull Requests I published
 {{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+• [`{{.Title}}`]({{.URL}}) @ [`{{.Repo.Name}}`]({{.Repo.URL}})  
+  ⤷ _{{humanize .CreatedAt}}_
 {{- end}}
 
 <!-- ## ⭐️ Open Source Projects -->
