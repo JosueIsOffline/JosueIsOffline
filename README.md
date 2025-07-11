@@ -44,21 +44,21 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - ⤿ ❮[`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)❯  
-     ⫸ learing  
-     ⤷ ⏱ 2 days ago
- - ⤿ ❮[`JosueIsOffline/dotfiles`](https://github.com/JosueIsOffline/dotfiles)❯  
-     ⫸ My configuration  
-     ⤷ ⏱ 4 days ago
- - ⤿ ❮[`JosueIsOffline/web-programming-itla`](https://github.com/JosueIsOffline/web-programming-itla)❯  
-     ⫸   
-     ⤷ ⏱ 6 days ago
- - ⤿ ❮[`JosueIsOffline/auto-login-itla`](https://github.com/JosueIsOffline/auto-login-itla)❯  
-     ⫸ Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
-     ⤷ ⏱ 1 week ago
- - ⤿ ❮[`JosueIsOffline/CLIfficiency`](https://github.com/JosueIsOffline/CLIfficiency)❯  
-     ⫸   
-     ⤷ ⏱ 2 weeks ago
+ - [`JosueIsOffline/learning-js`](https://github.com/JosueIsOffline/learning-js)
+     ≡ learing  
+     ↺ 2 days ago
+ - [`JosueIsOffline/dotfiles`](https://github.com/JosueIsOffline/dotfiles)
+     ≡ My configuration  
+     ↺ 4 days ago
+ - [`JosueIsOffline/web-programming-itla`](https://github.com/JosueIsOffline/web-programming-itla)
+     ≡   
+     ↺ 6 days ago
+ - [`JosueIsOffline/auto-login-itla`](https://github.com/JosueIsOffline/auto-login-itla)
+     ≡ Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas).  
+     ↺ 1 week ago
+ - [`JosueIsOffline/CLIfficiency`](https://github.com/JosueIsOffline/CLIfficiency)
+     ≡   
+     ↺ 2 weeks ago
 
 ## 🔨 Latest Pull Requests I published
 
