@@ -44,17 +44,13 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 {{range recentContributions 5}}
- - [`{{.Repo.Name}}`]({{.Repo.URL}})
-     {{ printf "≡ %s" .Repo.Description }}{{if .Repo.Description}}{{end}}  
-     ↺ {{humanize .OccurredAt}}
-
+ - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ↺ ({{humanize .OccurredAt}})
 {{- end}}
 
 ## 🔨 Latest Pull Requests I published
 {{range recentPullRequests 5}}
-- ⤿ ❮[`{{.Title}}`]({{.URL}})❯ @ ❮[`{{.Repo.Name}}`]({{.Repo.URL}})❯  
-  ⤷ 📆 {{humanize .CreatedAt}}
-
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) 
+   ⤷ 📆 ({{humanize .CreatedAt}})
 {{- end}}
 
 <!-- ## ⭐️ Open Source Projects -->
