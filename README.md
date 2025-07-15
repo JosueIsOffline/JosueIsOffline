@@ -44,8 +44,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (1 day ago)
- - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (5 days ago)
+ - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (2 days ago)
+ - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (6 days ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 week ago)
  - [JosueIsOffline/auto-login-itla](https://github.com/JosueIsOffline/auto-login-itla) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 weeks ago)
  - [JosueIsOffline/CLIfficiency](https://github.com/JosueIsOffline/CLIfficiency) ↺ (2 weeks ago)
@@ -61,7 +61,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [test](https://github.com/JosueIsOffline/learning-js/pull/1) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) 
    ⤷ 📆 (3 weeks ago)
 - [feat: set up base layout with sidebar, theme provider and initial pages](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/9) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (3 weeks ago)
+   ⤷ 📆 (4 weeks ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
