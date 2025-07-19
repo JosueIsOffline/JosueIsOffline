@@ -44,16 +44,16 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 day ago)
- - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (2 days ago)
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (5 days ago)
+ - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (2 days ago)
+ - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (3 days ago)
+ - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (6 days ago)
  - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (1 week ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [feat: create complete page components for all routes](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/13) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [feat(auth): implement JWT authentication (#11)](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (2 weeks ago)
 - [Revert "Create tasks1.js"](https://github.com/JosueIsOffline/learning-js/pull/4) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) 
@@ -61,7 +61,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [feat: add controlled game start with start screen overlay](https://github.com/ryzrr/SNAKE/pull/5) on [ryzrr/SNAKE](https://github.com/ryzrr/SNAKE) 
    ⤷ 📆 (3 weeks ago)
 - [test](https://github.com/JosueIsOffline/learning-js/pull/1) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) 
-   ⤷ 📆 (4 weeks ago)
+   ⤷ 📆 (1 month ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
