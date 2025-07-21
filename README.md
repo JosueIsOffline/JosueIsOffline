@@ -44,16 +44,16 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (3 days ago)
- - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (4 days ago)
+ - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (4 days ago)
+ - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (5 days ago)
  - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (1 week ago)
  - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (1 week ago)
- - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 week ago)
+ - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (2 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [feat: create complete page components for all routes](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/13) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (4 days ago)
+   ⤷ 📆 (5 days ago)
 - [feat(auth): implement JWT authentication (#11)](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (3 weeks ago)
 - [Revert "Create tasks1.js"](https://github.com/JosueIsOffline/learning-js/pull/4) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) 
