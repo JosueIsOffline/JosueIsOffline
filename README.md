@@ -44,8 +44,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (1 day ago)
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (1 day ago)
+ - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (2 days ago)
+ - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (2 days ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 week ago)
  - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (2 weeks ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (3 weeks ago)
@@ -53,11 +53,11 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## 🔨 Latest Pull Requests I published
 
 - [chore: test](https://github.com/JosueIsOffline/web-programming-itla/pull/1) on [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) 
-   ⤷ 📆 (1 day ago)
+   ⤷ 📆 (2 days ago)
 - [feat: create complete page components for all routes](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/13) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (1 week ago)
 - [feat(auth): implement JWT authentication (#11)](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (4 weeks ago)
+   ⤷ 📆 (1 month ago)
 - [Revert "Create tasks1.js"](https://github.com/JosueIsOffline/learning-js/pull/4) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) 
    ⤷ 📆 (1 month ago)
 - [feat: add controlled game start with start screen overlay](https://github.com/ryzrr/SNAKE/pull/5) on [ryzrr/SNAKE](https://github.com/ryzrr/SNAKE) 
