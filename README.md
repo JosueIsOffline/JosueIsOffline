@@ -52,6 +52,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [Feature/n tiers architecture](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/14) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
+   ⤷ 📆 (today)
 - [chore: test](https://github.com/JosueIsOffline/web-programming-itla/pull/1) on [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) 
    ⤷ 📆 (3 days ago)
 - [feat: create complete page components for all routes](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/13) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
@@ -59,8 +61,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [feat(auth): implement JWT authentication (#11)](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (1 month ago)
 - [Revert "Create tasks1.js"](https://github.com/JosueIsOffline/learning-js/pull/4) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) 
-   ⤷ 📆 (1 month ago)
-- [feat: add controlled game start with start screen overlay](https://github.com/ryzrr/SNAKE/pull/5) on [ryzrr/SNAKE](https://github.com/ryzrr/SNAKE) 
    ⤷ 📆 (1 month ago)
 
 <!-- ## ⭐️ Open Source Projects -->
