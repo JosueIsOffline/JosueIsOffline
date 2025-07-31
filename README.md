@@ -52,6 +52,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [feat: initial project setup with kernel, router and view resolver](https://github.com/JosueIsOffline/TaPasandoRD/pull/13) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
 - [Feature/n tiers architecture](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/14) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (1 day ago)
 - [chore: test](https://github.com/JosueIsOffline/web-programming-itla/pull/1) on [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) 
@@ -59,8 +61,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [feat: create complete page components for all routes](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/13) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (2 weeks ago)
 - [feat(auth): implement JWT authentication (#11)](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (1 month ago)
-- [Revert "Create tasks1.js"](https://github.com/JosueIsOffline/learning-js/pull/4) on [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) 
    ⤷ 📆 (1 month ago)
 
 <!-- ## ⭐️ Open Source Projects -->
