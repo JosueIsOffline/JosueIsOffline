@@ -44,20 +44,20 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (5 days ago)
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (5 days ago)
- - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (6 days ago)
+ - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (6 days ago)
+ - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (6 days ago)
+ - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (1 week ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 week ago)
  - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (3 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [feat: initial project setup with kernel, router and view resolver](https://github.com/JosueIsOffline/TaPasandoRD/pull/13) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (1 day ago)
-- [Feature/n tiers architecture](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/14) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (2 days ago)
+- [Feature/n tiers architecture](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/14) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
+   ⤷ 📆 (3 days ago)
 - [chore: test](https://github.com/JosueIsOffline/web-programming-itla/pull/1) on [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) 
-   ⤷ 📆 (5 days ago)
+   ⤷ 📆 (6 days ago)
 - [feat: create complete page components for all routes](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/13) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (2 weeks ago)
 - [feat(auth): implement JWT authentication (#11)](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/12) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
