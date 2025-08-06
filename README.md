@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (1 day ago)
- - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (4 days ago)
+ - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (2 days ago)
+ - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (5 days ago)
  - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (1 week ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (2 weeks ago)
- - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (3 weeks ago)
+ - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (4 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [3 implementar autenticación con google y microsoft oauth](https://github.com/JosueIsOffline/TaPasandoRD/pull/20) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+- [refactor: make the sidebar a layout, and now use custom functions to …](https://github.com/JosueIsOffline/TaPasandoRD/pull/23) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (1 day ago)
+- [3 implementar autenticación con google y microsoft oauth](https://github.com/JosueIsOffline/TaPasandoRD/pull/20) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (2 days ago)
 - [feat: initial project setup with kernel, router and view resolver](https://github.com/JosueIsOffline/TaPasandoRD/pull/13) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (5 days ago)
-- [Feature/n tiers architecture](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/14) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
    ⤷ 📆 (6 days ago)
+- [Feature/n tiers architecture](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/14) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
+   ⤷ 📆 (1 week ago)
 - [chore: test](https://github.com/JosueIsOffline/web-programming-itla/pull/1) on [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) 
    ⤷ 📆 (1 week ago)
-- [feat: create complete page components for all routes](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/13) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (2 weeks ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
