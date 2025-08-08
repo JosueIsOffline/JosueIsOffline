@@ -52,16 +52,16 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [Fearture/implementar crud completo para incidencias](https://github.com/JosueIsOffline/TaPasandoRD/pull/31) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
+- [feat: create report incident view and update lat and long input on click](https://github.com/JosueIsOffline/TaPasandoRD/pull/30) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
 - [Home page features](https://github.com/JosueIsOffline/TaPasandoRD/pull/28) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (today)
 - [refactor: make the sidebar a layout, and now use custom functions to …](https://github.com/JosueIsOffline/TaPasandoRD/pull/23) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (3 days ago)
 - [3 implementar autenticación con google y microsoft oauth](https://github.com/JosueIsOffline/TaPasandoRD/pull/20) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (4 days ago)
-- [feat: initial project setup with kernel, router and view resolver](https://github.com/JosueIsOffline/TaPasandoRD/pull/13) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (1 week ago)
-- [Feature/n tiers architecture](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/14) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (1 week ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
