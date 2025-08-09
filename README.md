@@ -44,7 +44,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (4 days ago)
+ - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (5 days ago)
  - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (1 week ago)
  - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (1 week ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (2 weeks ago)
@@ -52,16 +52,16 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/33) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
+- [feat: create connection to finally use repositories](https://github.com/JosueIsOffline/TaPasandoRD/pull/32) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (1 day ago)
 - [Fearture/implementar crud completo para incidencias](https://github.com/JosueIsOffline/TaPasandoRD/pull/31) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [feat: create report incident view and update lat and long input on click](https://github.com/JosueIsOffline/TaPasandoRD/pull/30) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [Home page features](https://github.com/JosueIsOffline/TaPasandoRD/pull/28) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
-- [refactor: make the sidebar a layout, and now use custom functions to …](https://github.com/JosueIsOffline/TaPasandoRD/pull/23) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
-- [3 implementar autenticación con google y microsoft oauth](https://github.com/JosueIsOffline/TaPasandoRD/pull/20) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (4 days ago)
+   ⤷ 📆 (1 day ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
