@@ -53,15 +53,15 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## 🔨 Latest Pull Requests I published
 
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/33) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [feat: create connection to finally use repositories](https://github.com/JosueIsOffline/TaPasandoRD/pull/32) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
+   ⤷ 📆 (4 days ago)
 - [Fearture/implementar crud completo para incidencias](https://github.com/JosueIsOffline/TaPasandoRD/pull/31) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
+   ⤷ 📆 (4 days ago)
 - [feat: create report incident view and update lat and long input on click](https://github.com/JosueIsOffline/TaPasandoRD/pull/30) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
+   ⤷ 📆 (4 days ago)
 - [Home page features](https://github.com/JosueIsOffline/TaPasandoRD/pull/28) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
+   ⤷ 📆 (4 days ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
