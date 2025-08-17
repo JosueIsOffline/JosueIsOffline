@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
+ - [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) - About ↺ (1 day ago)
  - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (1 week ago)
  - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (2 weeks ago)
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (2 weeks ago)
+ - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (3 weeks ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (3 weeks ago)
- - [JosueIsOffline/learning-js](https://github.com/JosueIsOffline/learning-js) - learing ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
+- [Dev](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/15) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
+   ⤷ 📆 (1 day ago)
 - [Feature/built validators management](https://github.com/JosueIsOffline/TaPasandoRD/pull/45) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [fix: duplicate email execption controlled and persist data during error](https://github.com/JosueIsOffline/TaPasandoRD/pull/44) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/43) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [Fix auth email duplicate](https://github.com/JosueIsOffline/TaPasandoRD/pull/42) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (2 days ago)
-- [add-report-incident-crud](https://github.com/JosueIsOffline/TaPasandoRD/pull/37) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (4 days ago)
+   ⤷ 📆 (3 days ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
