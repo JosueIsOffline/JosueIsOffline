@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) - About ↺ (1 day ago)
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (1 day ago)
- - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (1 week ago)
+ - [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) - About ↺ (2 days ago)
+ - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (2 days ago)
+ - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (2 weeks ago)
  - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (2 weeks ago)
- - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (3 weeks ago)
+ - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (4 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
 
+- [probando](https://github.com/JosueIsOffline/TaPasandoRD/pull/49) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (1 day ago)
 - [feat: create comments system](https://github.com/JosueIsOffline/TaPasandoRD/pull/47) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [Dev](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/15) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (1 day ago)
+   ⤷ 📆 (2 days ago)
 - [Feature/built validators management](https://github.com/JosueIsOffline/TaPasandoRD/pull/45) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (1 day ago)
+   ⤷ 📆 (2 days ago)
 - [fix: duplicate email execption controlled and persist data during error](https://github.com/JosueIsOffline/TaPasandoRD/pull/44) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
-- [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/43) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
+   ⤷ 📆 (4 days ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
