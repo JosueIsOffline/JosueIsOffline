@@ -52,16 +52,16 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
-- [Feature/administration panel](https://github.com/JosueIsOffline/TaPasandoRD/pull/53) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+- [Feature/add map](https://github.com/JosueIsOffline/TaPasandoRD/pull/58) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (today)
-- [probando](https://github.com/JosueIsOffline/TaPasandoRD/pull/49) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (2 days ago)
-- [feat: create comments system](https://github.com/JosueIsOffline/TaPasandoRD/pull/47) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (2 days ago)
-- [Dev](https://github.com/JosueIsOffline/itla-programming2-exercises/pull/15) on [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) 
-   ⤷ 📆 (3 days ago)
-- [Feature/built validators management](https://github.com/JosueIsOffline/TaPasandoRD/pull/45) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 days ago)
+- [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/57) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
+- [Feature/built validators management](https://github.com/JosueIsOffline/TaPasandoRD/pull/56) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
+- [Revert "Feature/built validators management"](https://github.com/JosueIsOffline/TaPasandoRD/pull/55) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
+- [Feature/administration panel](https://github.com/JosueIsOffline/TaPasandoRD/pull/54) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
 
 <!-- ## ⭐️ Open Source Projects -->
 
