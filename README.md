@@ -52,6 +52,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [Feature/incidents map](https://github.com/JosueIsOffline/TaPasandoRD/pull/60) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
+   ⤷ 📆 (today)
 - [Feature/add map](https://github.com/JosueIsOffline/TaPasandoRD/pull/58) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (1 day ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/57) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
@@ -59,8 +61,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [Feature/built validators management](https://github.com/JosueIsOffline/TaPasandoRD/pull/56) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (1 day ago)
 - [Revert "Feature/built validators management"](https://github.com/JosueIsOffline/TaPasandoRD/pull/55) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (1 day ago)
-- [Feature/administration panel](https://github.com/JosueIsOffline/TaPasandoRD/pull/54) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (1 day ago)
 
 <!-- ## ⭐️ Open Source Projects -->
