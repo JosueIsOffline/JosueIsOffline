@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) - About ↺ (3 days ago)
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (3 days ago)
+ - [JosueIsOffline/itla-programming2-exercises](https://github.com/JosueIsOffline/itla-programming2-exercises) - About ↺ (4 days ago)
+ - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (4 days ago)
  - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (2 weeks ago)
  - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (2 weeks ago)
- - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (4 weeks ago)
+ - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Feature/add map](https://github.com/JosueIsOffline/TaPasandoRD/pull/58) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/57) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [Feature/built validators management](https://github.com/JosueIsOffline/TaPasandoRD/pull/56) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [Revert "Feature/built validators management"](https://github.com/JosueIsOffline/TaPasandoRD/pull/55) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 - [Feature/administration panel](https://github.com/JosueIsOffline/TaPasandoRD/pull/54) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (today)
+   ⤷ 📆 (1 day ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
