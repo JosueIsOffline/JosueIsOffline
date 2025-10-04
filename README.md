@@ -44,11 +44,11 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
+ - [JosueIsOffline/free-pizza](https://github.com/JosueIsOffline/free-pizza) ↺ (1 day ago)
  - [iTLands/itlands](https://github.com/iTLands/itlands) ↺ (2 weeks ago)
  - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (3 weeks ago)
  - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (1 month ago)
  - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (1 month ago)
- - [JosueIsOffline/web-programming-itla](https://github.com/JosueIsOffline/web-programming-itla) ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
