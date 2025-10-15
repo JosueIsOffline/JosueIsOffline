@@ -44,11 +44,11 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
+ - [JosueIsOffline/auto-login-itla](https://github.com/JosueIsOffline/auto-login-itla) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 day ago)
  - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (1 week ago)
  - [JosueIsOffline/free-pizza](https://github.com/JosueIsOffline/free-pizza) ↺ (1 week ago)
  - [iTLands/itlands](https://github.com/iTLands/itlands) ↺ (3 weeks ago)
  - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (1 month ago)
- - [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
