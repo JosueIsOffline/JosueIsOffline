@@ -44,7 +44,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/auto-login-itla](https://github.com/JosueIsOffline/auto-login-itla) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 day ago)
+ - [JosueIsOffline/auto-login-itla](https://github.com/JosueIsOffline/auto-login-itla) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 days ago)
  - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (1 week ago)
  - [JosueIsOffline/free-pizza](https://github.com/JosueIsOffline/free-pizza) ↺ (1 week ago)
  - [iTLands/itlands](https://github.com/iTLands/itlands) ↺ (3 weeks ago)
