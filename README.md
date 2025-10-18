@@ -53,7 +53,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## 🔨 Latest Pull Requests I published
 
 - [refactor: modularize auto-login script](https://github.com/JosueIsOffline/itla-plus/pull/1) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
-   ⤷ 📆 (1 day ago)
+   ⤷ 📆 (2 days ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/67) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (1 month ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/63) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
