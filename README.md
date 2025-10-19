@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 day ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 days ago)
  - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (1 week ago)
  - [JosueIsOffline/free-pizza](https://github.com/JosueIsOffline/free-pizza) ↺ (2 weeks ago)
- - [iTLands/itlands](https://github.com/iTLands/itlands) ↺ (4 weeks ago)
+ - [iTLands/itlands](https://github.com/iTLands/itlands) ↺ (1 month ago)
  - [JosueIsOffline/Arkham](https://github.com/JosueIsOffline/Arkham) - Arkham is a lightweight, modern PHP framework built from scratch following MVC architecture principles. It provides developers with essential tools for rapid web application development while maintaining simplicity and performance. ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [refactor: modularize auto-login script](https://github.com/JosueIsOffline/itla-plus/pull/1) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/67) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (1 month ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/63) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (1 month ago)
+   ⤷ 📆 (2 months ago)
 - [Feature/incidents map](https://github.com/JosueIsOffline/TaPasandoRD/pull/62) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (1 month ago)
+   ⤷ 📆 (2 months ago)
 - [Feature/incidents map](https://github.com/JosueIsOffline/TaPasandoRD/pull/61) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (1 month ago)
+   ⤷ 📆 (2 months ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
