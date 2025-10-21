@@ -44,7 +44,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 day ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 days ago)
  - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (2 weeks ago)
  - [JosueIsOffline/free-pizza](https://github.com/JosueIsOffline/free-pizza) ↺ (2 weeks ago)
  - [iTLands/itlands](https://github.com/iTLands/itlands) ↺ (1 month ago)
@@ -53,7 +53,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## 🔨 Latest Pull Requests I published
 
 - [refactor: modularize auto-login script](https://github.com/JosueIsOffline/itla-plus/pull/1) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
-   ⤷ 📆 (4 days ago)
+   ⤷ 📆 (5 days ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/67) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
    ⤷ 📆 (2 months ago)
 - [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/63) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
