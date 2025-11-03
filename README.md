@@ -44,10 +44,10 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) ↺ (1 day ago)
- - [iTLands/itla-plus-web](https://github.com/iTLands/itla-plus-web) ↺ (2 days ago)
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (4 days ago)
- - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (3 weeks ago)
+ - [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) ↺ (2 days ago)
+ - [iTLands/itla-plus-web](https://github.com/iTLands/itla-plus-web) ↺ (3 days ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (5 days ago)
+ - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (4 weeks ago)
  - [iTLands/itlands](https://github.com/iTLands/itlands) ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
