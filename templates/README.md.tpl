@@ -1,6 +1,6 @@
 <div align="center">
 
-**// VeryRare4Ever //**
+**// MAKE OUT HILL //**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%3E+Crafting+digital+realities...;%3E+Weaving+code+into+existence...;%3E+Debugging+in+the+shadows...;%3E+Where+logic+meets+creativity...)](https://git.io/typing-svg)
 
