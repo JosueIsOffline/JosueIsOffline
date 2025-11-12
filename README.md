@@ -1,6 +1,6 @@
 <div align="center">
 
-**// VeryRare4Ever //**
+**// MAKE OUT HILL //**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=%3E+Crafting+digital+realities...;%3E+Weaving+code+into+existence...;%3E+Debugging+in+the+shadows...;%3E+Where+logic+meets+creativity...)](https://git.io/typing-svg)
 
@@ -44,10 +44,10 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 day ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 day ago)
- - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (1 week ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 days ago)
  - [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) ↺ (1 week ago)
+ - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (1 week ago)
  - [iTLands/itla-plus-web](https://github.com/iTLands/itla-plus-web) ↺ (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
