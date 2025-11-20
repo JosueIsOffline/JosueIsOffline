@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
+ - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (today)
  - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (1 day ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (5 days ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 week ago)
  - [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) ↺ (2 weeks ago)
- - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (2 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
 
+- [Qa](https://github.com/JosueIsOffline/notex/pull/7) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
+   ⤷ 📆 (today)
+- [Dev](https://github.com/JosueIsOffline/notex/pull/6) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
+   ⤷ 📆 (today)
+- [Feature/add persist data and create logic to add notes](https://github.com/JosueIsOffline/notex/pull/5) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
+   ⤷ 📆 (today)
 - [feat: create UI for notex (#2)](https://github.com/JosueIsOffline/notex/pull/4) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
    ⤷ 📆 (today)
 - [feat: create UI for notex](https://github.com/JosueIsOffline/notex/pull/3) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
    ⤷ 📆 (today)
-- [feat: create UI for notex](https://github.com/JosueIsOffline/notex/pull/2) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (today)
-- [Dev](https://github.com/JosueIsOffline/barber-app/pull/2) on [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) 
-   ⤷ 📆 (2 weeks ago)
-- [Dev](https://github.com/JosueIsOffline/barber-app/pull/1) on [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) 
-   ⤷ 📆 (2 weeks ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
