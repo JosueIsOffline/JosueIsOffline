@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (4 days ago)
+ - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (1 day ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (5 days ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 week ago)
- - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (2 weeks ago)
  - [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) ↺ (2 weeks ago)
- - [iTLands/itla-plus-web](https://github.com/iTLands/itla-plus-web) ↺ (2 weeks ago)
+ - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (2 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
 
+- [feat: create UI for notex (#2)](https://github.com/JosueIsOffline/notex/pull/4) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
+   ⤷ 📆 (today)
+- [feat: create UI for notex](https://github.com/JosueIsOffline/notex/pull/3) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
+   ⤷ 📆 (today)
+- [feat: create UI for notex](https://github.com/JosueIsOffline/notex/pull/2) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
+   ⤷ 📆 (today)
 - [Dev](https://github.com/JosueIsOffline/barber-app/pull/2) on [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) 
    ⤷ 📆 (2 weeks ago)
 - [Dev](https://github.com/JosueIsOffline/barber-app/pull/1) on [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) 
    ⤷ 📆 (2 weeks ago)
-- [refactor: modularize auto-login script](https://github.com/JosueIsOffline/itla-plus/pull/1) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
-   ⤷ 📆 (1 month ago)
-- [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/67) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 months ago)
-- [Dev](https://github.com/JosueIsOffline/TaPasandoRD/pull/63) on [JosueIsOffline/TaPasandoRD](https://github.com/JosueIsOffline/TaPasandoRD) 
-   ⤷ 📆 (3 months ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
