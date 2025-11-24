@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 day ago)
- - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (2 days ago)
- - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (3 days ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 days ago)
+ - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (3 days ago)
+ - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (4 days ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 week ago)
- - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (2 weeks ago)
+ - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (3 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Qa](https://github.com/JosueIsOffline/notex/pull/16) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [Dev](https://github.com/JosueIsOffline/notex/pull/15) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [Hotfix/re render notes on delete function](https://github.com/JosueIsOffline/notex/pull/14) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [Qa](https://github.com/JosueIsOffline/notex/pull/13) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 - [Feature/add edit operation](https://github.com/JosueIsOffline/notex/pull/12) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (2 days ago)
+   ⤷ 📆 (3 days ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
