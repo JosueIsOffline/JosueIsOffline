@@ -52,6 +52,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [1 configuración inicial del proyecto](https://github.com/Davidpedo123/Smartflow/pull/22) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+   ⤷ 📆 (today)
 - [Qa](https://github.com/JosueIsOffline/notex/pull/16) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
    ⤷ 📆 (1 week ago)
 - [Dev](https://github.com/JosueIsOffline/notex/pull/15) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
@@ -59,8 +61,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [Hotfix/re render notes on delete function](https://github.com/JosueIsOffline/notex/pull/14) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
    ⤷ 📆 (1 week ago)
 - [Qa](https://github.com/JosueIsOffline/notex/pull/13) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (1 week ago)
-- [Feature/add edit operation](https://github.com/JosueIsOffline/notex/pull/12) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
    ⤷ 📆 (1 week ago)
 
 <!-- ## ⭐️ Open Source Projects -->
