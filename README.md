@@ -44,23 +44,23 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (4 days ago)
+ - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (5 days ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 week ago)
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 week ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 weeks ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (3 weeks ago)
  - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [3 crear interfaces de capa de negocio](https://github.com/Davidpedo123/Smartflow/pull/26) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+- [feat: add ConfigurationManager singleton for loading settings](https://github.com/Davidpedo123/Smartflow/pull/27) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (today)
-- [1 configuración inicial del proyecto](https://github.com/Davidpedo123/Smartflow/pull/22) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+- [3 crear interfaces de capa de negocio](https://github.com/Davidpedo123/Smartflow/pull/26) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 day ago)
+- [1 configuración inicial del proyecto](https://github.com/Davidpedo123/Smartflow/pull/22) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+   ⤷ 📆 (2 days ago)
 - [Qa](https://github.com/JosueIsOffline/notex/pull/16) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
    ⤷ 📆 (2 weeks ago)
 - [Dev](https://github.com/JosueIsOffline/notex/pull/15) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (2 weeks ago)
-- [Hotfix/re render notes on delete function](https://github.com/JosueIsOffline/notex/pull/14) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
    ⤷ 📆 (2 weeks ago)
 
 <!-- ## ⭐️ Open Source Projects -->
