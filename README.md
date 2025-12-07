@@ -52,16 +52,16 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [Load/files](https://github.com/Davidpedo123/Smartflow/pull/31) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+   ⤷ 📆 (today)
+- [Load/files](https://github.com/Davidpedo123/Smartflow/pull/30) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+   ⤷ 📆 (today)
 - [8 implementar rulevalidator y reglas de negocio](https://github.com/Davidpedo123/Smartflow/pull/28) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 day ago)
 - [feat: add ConfigurationManager singleton for loading settings](https://github.com/Davidpedo123/Smartflow/pull/27) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 day ago)
 - [3 crear interfaces de capa de negocio](https://github.com/Davidpedo123/Smartflow/pull/26) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (2 days ago)
-- [1 configuración inicial del proyecto](https://github.com/Davidpedo123/Smartflow/pull/22) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (3 days ago)
-- [Qa](https://github.com/JosueIsOffline/notex/pull/16) on [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) 
-   ⤷ 📆 (2 weeks ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
