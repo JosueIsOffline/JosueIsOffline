@@ -48,7 +48,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 week ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 weeks ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (3 weeks ago)
- - [JosueIsOffline/parallel-programming-itla](https://github.com/JosueIsOffline/parallel-programming-itla) ↺ (1 month ago)
+ - [JosueIsOffline/barber-app](https://github.com/JosueIsOffline/barber-app) ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
