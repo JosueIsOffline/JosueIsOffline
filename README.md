@@ -44,24 +44,24 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (2 days ago)
+ - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (3 days ago)
  - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (1 week ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (2 weeks ago)
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 weeks ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (3 weeks ago)
  - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Dev](https://github.com/Davidpedo123/Smartflow/pull/40) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (1 day ago)
-- [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (2 days ago)
-- [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+- [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (3 days ago)
-- [5 implementar txtextractor capa de datos](https://github.com/Davidpedo123/Smartflow/pull/34) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+- [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (4 days ago)
-- [Load/files](https://github.com/Davidpedo123/Smartflow/pull/31) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+- [5 implementar txtextractor capa de datos](https://github.com/Davidpedo123/Smartflow/pull/34) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (5 days ago)
+- [Load/files](https://github.com/Davidpedo123/Smartflow/pull/31) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
+   ⤷ 📆 (6 days ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
