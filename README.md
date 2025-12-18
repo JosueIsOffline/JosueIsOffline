@@ -53,7 +53,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## 🔨 Latest Pull Requests I published
 
 - [Dev](https://github.com/Davidpedo123/Smartflow/pull/40) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (6 days ago)
+   ⤷ 📆 (1 week ago)
 - [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 week ago)
 - [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
