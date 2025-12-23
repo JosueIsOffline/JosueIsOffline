@@ -57,7 +57,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 week ago)
 - [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (1 week ago)
+   ⤷ 📆 (2 weeks ago)
 - [5 implementar txtextractor capa de datos](https://github.com/Davidpedo123/Smartflow/pull/34) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (2 weeks ago)
 - [Load/files](https://github.com/Davidpedo123/Smartflow/pull/31) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
