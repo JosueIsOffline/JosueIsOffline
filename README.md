@@ -48,12 +48,12 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
  - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (1 month ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 month ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 month ago)
- - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (1 month ago)
+ - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (2 months ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Dev](https://github.com/Davidpedo123/Smartflow/pull/40) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (4 weeks ago)
+   ⤷ 📆 (1 month ago)
 - [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 month ago)
 - [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
