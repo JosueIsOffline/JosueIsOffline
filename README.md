@@ -52,6 +52,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔨 Latest Pull Requests I published
 
+- [Feature/add support for new moodle platform](https://github.com/JosueIsOffline/itla-plus/pull/7) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
+   ⤷ 📆 (today)
 - [Dev](https://github.com/Davidpedo123/Smartflow/pull/40) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 month ago)
 - [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
@@ -59,8 +61,6 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 month ago)
 - [5 implementar txtextractor capa de datos](https://github.com/Davidpedo123/Smartflow/pull/34) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (1 month ago)
-- [Load/files](https://github.com/Davidpedo123/Smartflow/pull/31) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (1 month ago)
 
 <!-- ## ⭐️ Open Source Projects -->
