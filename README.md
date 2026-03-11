@@ -48,14 +48,14 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
  - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (3 months ago)
  - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (3 months ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (3 months ago)
- - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (3 months ago)
+ - [JosueIsOffline/dotfiles](https://github.com/JosueIsOffline/dotfiles) - My configuration ↺ (4 months ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Feature/add support for new moodle platform](https://github.com/JosueIsOffline/itla-plus/pull/7) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
    ⤷ 📆 (1 month ago)
 - [Dev](https://github.com/Davidpedo123/Smartflow/pull/40) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (2 months ago)
+   ⤷ 📆 (3 months ago)
 - [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (3 months ago)
 - [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
