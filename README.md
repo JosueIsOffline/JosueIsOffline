@@ -45,9 +45,9 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## 🔥 What I'm Cooking Lately
 
  - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (1 week ago)
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (3 months ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (4 months ago)
  - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (5 months ago)
- - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (5 months ago)
+ - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (6 months ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (6 months ago)
 
 ## 🔨 Latest Pull Requests I published
