@@ -44,7 +44,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (6 days ago)
+ - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (1 week ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (4 months ago)
  - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (6 months ago)
  - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (6 months ago)
@@ -55,7 +55,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [Feature/add support for new moodle platform](https://github.com/JosueIsOffline/itla-plus/pull/7) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
    ⤷ 📆 (4 months ago)
 - [Dev](https://github.com/Davidpedo123/Smartflow/pull/40) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (5 months ago)
+   ⤷ 📆 (6 months ago)
 - [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (6 months ago)
 - [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
