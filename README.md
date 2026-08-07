@@ -47,7 +47,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (4 weeks ago)
  - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (2 months ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (6 months ago)
- - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (7 months ago)
+ - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (8 months ago)
  - [JosueIsOffline/notex](https://github.com/JosueIsOffline/notex) ↺ (8 months ago)
 
 ## 🔨 Latest Pull Requests I published
@@ -57,7 +57,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [Dev](https://github.com/Davidpedo123/Smartflow/pull/40) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (7 months ago)
 - [Feature/create and implement paralelization engine](https://github.com/Davidpedo123/Smartflow/pull/39) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
-   ⤷ 📆 (7 months ago)
+   ⤷ 📆 (8 months ago)
 - [Feature/create etl coordinator class](https://github.com/Davidpedo123/Smartflow/pull/38) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
    ⤷ 📆 (8 months ago)
 - [5 implementar txtextractor capa de datos](https://github.com/Davidpedo123/Smartflow/pull/34) on [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) 
