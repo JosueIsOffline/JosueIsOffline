@@ -53,7 +53,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 ## 🔨 Latest Pull Requests I published
 
 - [feat: implement nomina module](https://github.com/EidanT/ShiftAI/pull/9) on [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) 
-   ⤷ 📆 (2 weeks ago)
+   ⤷ 📆 (3 weeks ago)
 - [feat: implement authentication services](https://github.com/EidanT/ShiftAI/pull/6) on [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) 
    ⤷ 📆 (1 month ago)
 - [Revert "Feature/authentication supabase"](https://github.com/EidanT/ShiftAI/pull/5) on [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) 
