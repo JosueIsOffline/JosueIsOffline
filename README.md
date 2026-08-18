@@ -61,7 +61,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [Feature/authentication supabase](https://github.com/EidanT/ShiftAI/pull/4) on [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) 
    ⤷ 📆 (1 month ago)
 - [Feature/backend setup](https://github.com/EidanT/ShiftAI/pull/1) on [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) 
-   ⤷ 📆 (1 month ago)
+   ⤷ 📆 (2 months ago)
 
 <!-- ## ⭐️ Open Source Projects -->
 
