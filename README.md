@@ -44,7 +44,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) ↺ (4 weeks ago)
+ - [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) ↺ (1 month ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (1 month ago)
  - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (2 months ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (6 months ago)
