@@ -44,11 +44,11 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/creative-design](https://github.com/JosueIsOffline/creative-design) ↺ (5 days ago)
- - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 week ago)
+ - [JosueIsOffline/creative-design](https://github.com/JosueIsOffline/creative-design) ↺ (6 days ago)
+ - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 weeks ago)
  - [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) ↺ (2 months ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (2 months ago)
- - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (3 months ago)
+ - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (4 months ago)
 
 ## 🔨 Latest Pull Requests I published
 
