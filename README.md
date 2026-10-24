@@ -46,7 +46,7 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
  - [JosueIsOffline/creative-design](https://github.com/JosueIsOffline/creative-design) ↺ (1 week ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (1 month ago)
- - [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) ↺ (2 months ago)
+ - [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) ↺ (3 months ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (3 months ago)
  - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (4 months ago)
 
