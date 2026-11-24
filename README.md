@@ -44,16 +44,14 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 
 ## 🔥 What I'm Cooking Lately
 
- - [JosueIsOffline/creative-design](https://github.com/JosueIsOffline/creative-design) ↺ (6 days ago)
  - [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) - Un userscript para automatizar el proceso de inicio de sesión en la plataforma virtual del ITLA (Instituto Tecnológico de Las Américas). ↺ (2 months ago)
  - [EidanT/ShiftAI](https://github.com/EidanT/ShiftAI) ↺ (4 months ago)
  - [JosueIsOffline/leetcode-journey](https://github.com/JosueIsOffline/leetcode-journey) ↺ (4 months ago)
  - [JosueIsOffline/machuca-countdown](https://github.com/JosueIsOffline/machuca-countdown) ↺ (5 months ago)
+ - [Davidpedo123/Smartflow](https://github.com/Davidpedo123/Smartflow) - Proyecto Final Programación Paralela - Descomposición de Datos ↺ (11 months ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat(cart): add coupons, christmas season and drive photos](https://github.com/JosueIsOffline/creative-design/pull/1) on [JosueIsOffline/creative-design](https://github.com/JosueIsOffline/creative-design) 
-   ⤷ 📆 (5 days ago)
 - [Fix/google token auth message format](https://github.com/JosueIsOffline/itla-plus/pull/15) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
    ⤷ 📆 (2 months ago)
 - [fix: ExportAssignments no corría en todos los dominios y podía colgarse en silencio](https://github.com/JosueIsOffline/itla-plus/pull/14) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
@@ -61,6 +59,8 @@ Lifelong learner, problem solver, and always looking for ways to **build scalabl
 - [fix: guardar el token de Google OAuth en el formato correcto](https://github.com/JosueIsOffline/itla-plus/pull/13) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
    ⤷ 📆 (2 months ago)
 - [fix: correct grade totals and add ITSC support; remove AutoLogin](https://github.com/JosueIsOffline/itla-plus/pull/12) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
+   ⤷ 📆 (2 months ago)
+- [fix: correct grade totals and add ITSC support; remove AutoLogin](https://github.com/JosueIsOffline/itla-plus/pull/11) on [JosueIsOffline/itla-plus](https://github.com/JosueIsOffline/itla-plus) 
    ⤷ 📆 (2 months ago)
 
 <!-- ## ⭐️ Open Source Projects -->
